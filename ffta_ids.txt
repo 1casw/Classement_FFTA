@@ -1,0 +1,107 @@
+# Identifiants des pages de classement FFTA
+# https://extranet.ffta.fr/iframe/classements/<identifiant>.html
+#
+# Un classement par ligne, au format :   saison - sexe - arme - catégorie : identifiant
+# Valable pour la discipline « Tir à 18m », en individuel.
+# Les lignes qui commencent par # sont des commentaires.
+#
+# - Une combinaison absente de ce fichier n'est pas un problème : le script la retrouve
+#   par la recherche du site, et affiche dans le log la ligne à recopier ici.
+# - Chaque identifiant est vérifié sur la page ouverte (titre « Classement National … »).
+#   Un identifiant faux ou périmé est donc ignoré, puis signalé dans le log.
+# - Les pages regroupant deux catégories (« U18-U21 », 14111 et 14112 en 2026) ne sont
+#   pas gérées.
+# - Les identifiants changent probablement chaque saison.
+
+[confirmes]
+# 2025 - Arc Classique
+2025 - Homme - Arc Classique - U13 : 13630
+
+# 2026 - Arc Nu
+2026 - Homme - Arc Nu - U18 : 14082
+2026 - Femme - Arc Nu - U18 : 14083
+
+# 2026 - Arc à Poulies
+2026 - Femme - Arc à Poulies - U18 : 14084
+2026 - Homme - Arc à Poulies - U18 : 14085
+2026 - Femme - Arc à Poulies - U15 : 14086
+2026 - Homme - Arc à Poulies - U15 : 14113
+2026 - Homme - Arc à Poulies - Senior 3 : 14089
+2026 - Femme - Arc à Poulies - Senior 3 : 14090
+2026 - Homme - Arc à Poulies - Senior 2 : 14091
+2026 - Femme - Arc à Poulies - Senior 2 : 14092
+2026 - Homme - Arc à Poulies - Senior 1 : 14093
+2026 - Femme - Arc à Poulies - Senior 1 : 14094
+2026 - Homme - Arc à Poulies - U21 : 14095
+2026 - Femme - Arc à Poulies - U21 : 14096
+
+# 2026 - Arc Classique
+2026 - Homme - Arc Classique - U11 : 14087
+2026 - Femme - Arc Classique - U11 : 14088
+2026 - Homme - Arc Classique - U13 : 14109
+2026 - Femme - Arc Classique - U13 : 14110
+2026 - Homme - Arc Classique - U15 : 14107
+2026 - Femme - Arc Classique - U15 : 14108
+2026 - Homme - Arc Classique - U18 : 14105
+2026 - Femme - Arc Classique - U18 : 14106
+2026 - Homme - Arc Classique - U21 : 14103
+2026 - Femme - Arc Classique - U21 : 14104
+2026 - Homme - Arc Classique - Senior 1 : 14101
+2026 - Femme - Arc Classique - Senior 1 : 14102
+2026 - Homme - Arc Classique - Senior 2 : 14099
+2026 - Femme - Arc Classique - Senior 2 : 14100
+2026 - Homme - Arc Classique - Senior 3 : 14097
+2026 - Femme - Arc Classique - Senior 3 : 14098
+
+# 2027 - Arc Classique
+2027 - Homme - Arc Classique - Senior 3 : 14544
+2027 - Homme - Arc Classique - Senior 2 : 14546
+2027 - Homme - Arc Classique - Senior 1 : 14548
+2027 - Homme - Arc Classique - U21 : 14550
+2027 - Homme - Arc Classique - U18 : 14552
+2024 - Homme - Arc Classique - Senior 2 : 12993   # ajouté le 2026-10-02
+2025 - Homme - Arc Classique - Senior 2 : 13620   # ajouté le 2026-10-02
+2025 - Homme - Arc Classique - U18 : 13626   # ajouté le 2026-10-02
+2025 - Homme - Arc Classique - Senior 1 : 13622   # ajouté le 2026-10-02
+2025 - Femme - Arc Classique - U18 : 13627   # ajouté le 2026-10-02
+2025 - Homme - Arc à Poulies - Senior 1 : 13614   # ajouté le 2026-10-02
+
+# Identifiants DÉDUITS (non confirmés) : en 2026 comme en 2027, les catégories de l'Arc
+# Classique se suivent de 2 en 2 (Senior 3, Senior 2, Senior 1, U21, U18, U15, U13) et la
+# Femme suit l'Homme de +1. Ils ne servent que si la page ouverte est vérifiée.
+[deduits]
+# 2027 - Arc Nu
+2027 - Homme - Arc Nu - U18 : 14529
+2027 - Femme - Arc Nu - U18 : 14530
+
+# 2027 - Arc à Poulies
+2027 - Femme - Arc à Poulies - U18 : 14531
+2027 - Homme - Arc à Poulies - U18 : 14532
+2027 - Femme - Arc à Poulies - U15 : 14533
+2027 - Homme - Arc à Poulies - U15 : 14560
+2027 - Homme - Arc à Poulies - Senior 3 : 14536
+2027 - Femme - Arc à Poulies - Senior 3 : 14537
+2027 - Homme - Arc à Poulies - Senior 2 : 14538
+2027 - Femme - Arc à Poulies - Senior 2 : 14539
+2027 - Homme - Arc à Poulies - Senior 1 : 14540
+2027 - Femme - Arc à Poulies - Senior 1 : 14541
+2027 - Homme - Arc à Poulies - U21 : 14542
+2027 - Femme - Arc à Poulies - U21 : 14543
+
+# 2027 - Arc Classique
+2027 - Homme - Arc Classique - U11 : 14558
+2027 - Femme - Arc Classique - U11 : 14559
+2027 - Homme - Arc Classique - U13 : 14556
+2027 - Femme - Arc Classique - U13 : 14557
+2027 - Homme - Arc Classique - U15 : 14554
+2027 - Femme - Arc Classique - U15 : 14555
+2027 - Homme - Arc Classique - U18 : 14552
+2027 - Femme - Arc Classique - U18 : 14553
+2027 - Homme - Arc Classique - U21 : 14550
+2027 - Femme - Arc Classique - U21 : 14551
+2027 - Homme - Arc Classique - Senior 1 : 14548
+2027 - Femme - Arc Classique - Senior 1 : 14549
+2027 - Homme - Arc Classique - Senior 2 : 14546
+2027 - Femme - Arc Classique - Senior 2 : 14547
+2027 - Homme - Arc Classique - Senior 3 : 14544
+2027 - Femme - Arc Classique - Senior 3 : 14545
