@@ -59,6 +59,7 @@
 2027 - Homme - Arc Classique - Senior 1 : 14548
 2027 - Homme - Arc Classique - U21 : 14550
 2027 - Homme - Arc Classique - U18 : 14552
+2027 - Femme - Arc Classique - U21 : 14551   # confirmé le 2026-10-19
 2024 - Homme - Arc Classique - Senior 2 : 12993   # ajouté le 2026-10-02
 2025 - Homme - Arc Classique - Senior 2 : 13620   # ajouté le 2026-10-02
 2025 - Homme - Arc Classique - U18 : 13626   # ajouté le 2026-10-02
@@ -98,7 +99,6 @@
 2027 - Homme - Arc Classique - U18 : 14552
 2027 - Femme - Arc Classique - U18 : 14553
 2027 - Homme - Arc Classique - U21 : 14550
-2027 - Femme - Arc Classique - U21 : 14551
 2027 - Homme - Arc Classique - Senior 1 : 14548
 2027 - Femme - Arc Classique - Senior 1 : 14549
 2027 - Homme - Arc Classique - Senior 2 : 14546
