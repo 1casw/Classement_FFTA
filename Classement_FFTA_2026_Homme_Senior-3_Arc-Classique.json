@@ -17,6 +17,16 @@
     "regional": 117,
     "departemental": 20
   },
+  "arretes": {
+    "general": {
+      "libelle": "Arrêté (18/02/2026)",
+      "date": "18/02/2026"
+    },
+    "dom_tom": {
+      "libelle": "Arrêté Dom-Tom (07/01/2026)",
+      "date": "07/01/2026"
+    }
+  },
   "classement": [
     {
       "Rang Nat.": "1",
