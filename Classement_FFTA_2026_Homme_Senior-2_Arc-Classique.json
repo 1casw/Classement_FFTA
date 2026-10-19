@@ -17,6 +17,16 @@
     "regional": 220,
     "departemental": 33
   },
+  "arretes": {
+    "general": {
+      "libelle": "Arrêté (18/02/2026)",
+      "date": "18/02/2026"
+    },
+    "dom_tom": {
+      "libelle": "Arrêté Dom-Tom (07/01/2026)",
+      "date": "07/01/2026"
+    }
+  },
   "classement": [
     {
       "Rang Nat.": "1",
@@ -25399,7 +25409,7 @@
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1041064Q",
-      "Nom": "ESCUREDO DO CARNO ALEXANDRE",
+      "Nom": "ESCUREDO DO CARMO ALEXANDRE",
       "Club": "0895292",
       "Ville": "SAINT OUEN L'AUMONE",
       "S1": "449",
@@ -41779,7 +41789,7 @@
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1039229B",
-      "Nom": "CHALENCON EMILE",
+      "Nom": "CHALANCON EMILE",
       "Club": "0142126",
       "Ville": "ANDREZIEUX-BOUTHEON",
       "S1": "386",
