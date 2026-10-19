@@ -338,6 +338,37 @@ def _ranking_page_check(page):
     return ok, "titre de classement introuvable, vérification sur les mots seuls"
 
 
+def detect_arretes(soup):
+    """Détecte les boutons/liens d'arrêté présents sur la page FFTA.
+    Une date absente reste à None : elle n'est jamais déduite de la saison.
+    """
+    result = {"general": None, "dom_tom": None}
+    for node in soup.find_all(["a", "button", "input"]):
+        if node.name == "input":
+            label = " ".join(str(node.get(attr, "")) for attr in ("value", "title", "aria-label"))
+        else:
+            label = " ".join([
+                node.get_text(" ", strip=True),
+                str(node.get("title", "")),
+                str(node.get("aria-label", "")),
+            ])
+        label = re.sub(r"\s+", " ", label).strip()
+        norm_label = _norm(label)
+        if "arrete" not in norm_label:
+            continue
+        date_match = re.search(r"\b(\d{1,2})[/-](\d{1,2})[/-](\d{4})\b", label)
+        date = None
+        if date_match:
+            day, month, year = date_match.groups()
+            date = f"{day.zfill(2)}/{month.zfill(2)}/{year}"
+        item = {"libelle": label, "date": date}
+        if "dom-tom" in norm_label or "dom tom" in norm_label or "domtom" in norm_label:
+            result["dom_tom"] = item
+        else:
+            result["general"] = item
+    return result
+
+
 def _html_table(soup, url=""):
     """Même extraction que le code navigateur : tableau Rang / Archer / Club."""
     best = None
@@ -578,6 +609,7 @@ def _http_flow(scope, structure, use_known_ids=True):
             "structure": structure,
             "filters": FILTERS,
             "table": table,
+            "arretes": detect_arretes(soup),
             "steps": steps,
         },
     }
@@ -651,6 +683,7 @@ def write_raw(scope, data):
         "arme": FILTERS["Arme"],
         "niveau": scope,
         "structure": data.get("structure", ""),
+        "arretes": data.get("arretes", {"general": None, "dom_tom": None}),
     }
 
     with open(json_path, "w", encoding="utf-8") as f:
@@ -901,6 +934,8 @@ def merge_final():
         "filtres": FILTERS,
         "structures": STRUCTURES,
         "lignes_recuperees": lignes_recuperees,
+        # Arrêtés détectés sur la page FFTA réellement récupérée, sans déduire la saison.
+        "arretes": raw_data["federation"].get("arretes", {"general": None, "dom_tom": None}),
         "classement": final_rows,
     }
 
