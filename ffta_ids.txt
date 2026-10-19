@@ -65,6 +65,7 @@
 2025 - Homme - Arc Classique - Senior 1 : 13622   # ajouté le 2026-10-02
 2025 - Femme - Arc Classique - U18 : 13627   # ajouté le 2026-10-02
 2025 - Homme - Arc à Poulies - Senior 1 : 13614   # ajouté le 2026-10-02
+2027 - Homme - Arc à Poulies - Senior 1 : 14540   # confirmé le 2026-10-19
 
 # Identifiants DÉDUITS (non confirmés) : en 2026 comme en 2027, les catégories de l'Arc
 # Classique se suivent de 2 en 2 (Senior 3, Senior 2, Senior 1, U21, U18, U15, U13) et la
@@ -83,7 +84,6 @@
 2027 - Femme - Arc à Poulies - Senior 3 : 14537
 2027 - Homme - Arc à Poulies - Senior 2 : 14538
 2027 - Femme - Arc à Poulies - Senior 2 : 14539
-2027 - Homme - Arc à Poulies - Senior 1 : 14540
 2027 - Femme - Arc à Poulies - Senior 1 : 14541
 2027 - Homme - Arc à Poulies - U21 : 14542
 2027 - Femme - Arc à Poulies - U21 : 14543
