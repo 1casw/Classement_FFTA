@@ -62,6 +62,7 @@
 2027 - Femme - Arc Classique - U21 : 14551   # confirmé le 2026-10-19
 2027 - Homme - Arc Classique - U15 : 14554   # confirmé le 2026-10-19
 2024 - Homme - Arc Classique - Senior 2 : 12993   # ajouté le 2026-10-02
+2024 - Homme - Arc Classique - U21 : 12997   # ajouté le 2026-10-31
 2025 - Homme - Arc Classique - Senior 2 : 13620   # ajouté le 2026-10-02
 2025 - Homme - Arc Classique - U18 : 13626   # ajouté le 2026-10-02
 2025 - Homme - Arc Classique - Senior 1 : 13622   # ajouté le 2026-10-02
