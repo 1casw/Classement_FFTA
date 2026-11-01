@@ -30,7 +30,9 @@ STRUCTURES = {
 
 
 RAW_DIR = ".ffta_raw"
-FINAL_DIR = "."
+# Dossier des JSON finaux. Dans le workflow GitHub : data-branch/classements
+# (branche « data »). En local, par défaut : le sous-dossier « classements ».
+FINAL_DIR = env_or_default("FFTA_OUTPUT_DIR", "classements")
 
 
 
@@ -939,6 +941,7 @@ def merge_final():
         "classement": final_rows,
     }
 
+    os.makedirs(FINAL_DIR, exist_ok=True)
     final_json_path = os.path.join(FINAL_DIR, f"{FILE_PREFIX}.json")
 
     with open(final_json_path, "w", encoding="utf-8") as f:
