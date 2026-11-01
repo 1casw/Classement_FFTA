@@ -41,6 +41,11 @@ permissions:
   pages: write
   id-token: write
 
+# Évite deux exécutions simultanées qui pousseraient en même temps sur la branche data.
+concurrency:
+  group: classement-ffta
+  cancel-in-progress: false
+
 jobs:
   classement:
     runs-on: ubuntu-latest
@@ -50,10 +55,26 @@ jobs:
       FFTA_SEXE: ${{ inputs.sexe }}
       FFTA_CATEGORIE: ${{ inputs.categorie }}
       FFTA_ARME: ${{ inputs.arme }}
+      # Les JSON finaux sont écrits dans la branche « data », dossier classements/
+      FFTA_OUTPUT_DIR: data-branch/classements
 
     steps:
       - name: Récupérer le dépôt
         uses: actions/checkout@v4
+
+      - name: Préparer la branche data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$REMOTE" data >/dev/null 2>&1; then
+            git clone --branch data --single-branch "$REMOTE" data-branch
+          else
+            echo "La branche data n'existe pas encore : elle sera créée."
+            git init -b data data-branch
+            git -C data-branch remote add origin "$REMOTE"
+          fi
+          mkdir -p data-branch/classements
 
       - name: Installer Python
         uses: actions/setup-python@v5
@@ -81,7 +102,7 @@ jobs:
         run: |
           python - <<'PY'
           import glob, json, os, sys
-          files = glob.glob("Classement_FFTA_*.json")
+          files = glob.glob("data-branch/classements/Classement_FFTA_*.json")
           if not files:
               print("Aucun JSON final trouvé.")
               sys.exit(1)
@@ -93,21 +114,41 @@ jobs:
               print(f"OK : {path} ({len(data['classement'])} archers)")
           PY
 
-      - name: Publication du JSON final dans le dépôt
+      - name: Publication des JSON dans la branche data
+        run: |
+          cd data-branch
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add classements
+          if git diff --cached --quiet; then
+            echo "Aucun changement à publier dans la branche data."
+          else
+            git commit -m "Mise à jour du classement FFTA"
+            git push origin data
+          fi
+
+      - name: Publication de ffta_ids.txt dans main
         run: |
           rm -rf .ffta_raw
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add '*.json'
           # Identifiants de pages découverts par le script (ffta_ids.txt)
           [ -f ffta_ids.txt ] && git add ffta_ids.txt
-          git add -u
           if git diff --cached --quiet; then
-            echo "Aucun changement à publier."
+            echo "ffta_ids.txt inchangé."
           else
-            git commit -m "Mise à jour du classement FFTA"
+            git commit -m "Mise à jour de ffta_ids.txt"
             git push
           fi
+
+      - name: Préparer le contenu du site
+        run: |
+          mkdir -p _site
+          # Fichiers de main (sans les dossiers techniques)...
+          rsync -a --exclude='.git' --exclude='data-branch' --exclude='_site' --exclude='.ffta_raw' ./ _site/
+          # ...et tous les classements de la branche data
+          mkdir -p _site/classements
+          cp -a data-branch/classements/. _site/classements/
 
       - name: Préparation GitHub Pages
         uses: actions/configure-pages@v5
@@ -115,7 +156,7 @@ jobs:
       - name: Préparer l'artefact Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _site
 
       - name: Publication GitHub Pages
         id: deployment
