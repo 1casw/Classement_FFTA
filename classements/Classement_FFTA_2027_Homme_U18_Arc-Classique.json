@@ -13,9 +13,9 @@
     "departemental": "57000 - COMITE DEPARTEMENTAL MOSELLE"
   },
   "lignes_recuperees": {
-    "federation": 573,
-    "regional": 40,
-    "departemental": 7
+    "federation": 611,
+    "regional": 42,
+    "departemental": 8
   },
   "arretes": {
     "general": null,
@@ -91,6 +91,19 @@
       "Rang Nat.": "6",
       "Rang Reg.": "",
       "Rang Dep.": "",
+      "Licence": "0047045L",
+      "Nom": "BELLOT BAPTISTE",
+      "Club": "1306030",
+      "Ville": "CANNES MANDELIEU",
+      "S1": "568",
+      "S2": "561",
+      "S3": "0",
+      "Moy.": "564"
+    },
+    {
+      "Rang Nat.": "7",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
       "Licence": "0964252A",
       "Nom": "MALLIÉ HUGO",
       "Club": "1134139",
@@ -101,7 +114,85 @@
       "Moy.": "563"
     },
     {
-      "Rang Nat.": "7",
+      "Rang Nat.": "8",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1000090S",
+      "Nom": "FILBAS-TURPIN ARMAND",
+      "Club": "0891156",
+      "Ville": "ORSAY",
+      "S1": "563",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "563"
+    },
+    {
+      "Rang Nat.": "9",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0991792K",
+      "Nom": "PETIT PAUL",
+      "Club": "0163157",
+      "Ville": "RIOM",
+      "S1": "563",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "563"
+    },
+    {
+      "Rang Nat.": "10",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0987460B",
+      "Nom": "BRUN BAPTISTE",
+      "Club": "0163157",
+      "Ville": "RIOM",
+      "S1": "559",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "559"
+    },
+    {
+      "Rang Nat.": "11",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0978284C",
+      "Nom": "STEYER NATHAN",
+      "Club": "0976093",
+      "Ville": "SAINT VALERY EN CAUX",
+      "S1": "561",
+      "S2": "560",
+      "S3": "549",
+      "Moy.": "556"
+    },
+    {
+      "Rang Nat.": "12",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0960908R",
+      "Nom": "DUBOIS GABRIEL",
+      "Club": "0289107",
+      "Ville": "BRIENON/ARMANCON",
+      "S1": "567",
+      "S2": "551",
+      "S3": "549",
+      "Moy.": "555"
+    },
+    {
+      "Rang Nat.": "13",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0967467V",
+      "Nom": "FORET LOUIS",
+      "Club": "1253084",
+      "Ville": "MAYENNE",
+      "S1": "555",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "555"
+    },
+    {
+      "Rang Nat.": "14",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0007350P",
@@ -114,20 +205,7 @@
       "Moy.": "554"
     },
     {
-      "Rang Nat.": "8",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0960908R",
-      "Nom": "DUBOIS GABRIEL",
-      "Club": "0289107",
-      "Ville": "BRIENON/ARMANCON",
-      "S1": "567",
-      "S2": "549",
-      "S3": "540",
-      "Moy.": "552"
-    },
-    {
-      "Rang Nat.": "9",
+      "Rang Nat.": "15",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0014426F",
@@ -140,7 +218,7 @@
       "Moy.": "552"
     },
     {
-      "Rang Nat.": "10",
+      "Rang Nat.": "16",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0993274W",
@@ -153,20 +231,20 @@
       "Moy.": "551"
     },
     {
-      "Rang Nat.": "11",
+      "Rang Nat.": "17",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0978284C",
-      "Nom": "STEYER NATHAN",
-      "Club": "0976093",
-      "Ville": "SAINT VALERY EN CAUX",
-      "S1": "561",
-      "S2": "549",
-      "S3": "541",
-      "Moy.": "550"
+      "Licence": "0012282A",
+      "Nom": "BARREU SASHA",
+      "Club": "1033113",
+      "Ville": "SAINT MEDARD EN JALLES",
+      "S1": "549",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "549"
     },
     {
-      "Rang Nat.": "12",
+      "Rang Nat.": "18",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0030867B",
@@ -179,20 +257,7 @@
       "Moy.": "548"
     },
     {
-      "Rang Nat.": "13",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0979299F",
-      "Nom": "CREUZET MAXIME",
-      "Club": "0221016",
-      "Ville": "CHENOVE",
-      "S1": "547",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "547"
-    },
-    {
-      "Rang Nat.": "14",
+      "Rang Nat.": "19",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0003423W",
@@ -205,7 +270,7 @@
       "Moy.": "546"
     },
     {
-      "Rang Nat.": "15",
+      "Rang Nat.": "20",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1013748A",
@@ -218,7 +283,7 @@
       "Moy.": "546"
     },
     {
-      "Rang Nat.": "16",
+      "Rang Nat.": "21",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0948335Z",
@@ -231,7 +296,20 @@
       "Moy.": "545"
     },
     {
-      "Rang Nat.": "17",
+      "Rang Nat.": "22",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1045445D",
+      "Nom": "SIEMON ROMAIN",
+      "Club": "0895289",
+      "Ville": "PONTOISE",
+      "S1": "561",
+      "S2": "545",
+      "S3": "526",
+      "Moy.": "544"
+    },
+    {
+      "Rang Nat.": "23",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0040573B",
@@ -244,7 +322,7 @@
       "Moy.": "543"
     },
     {
-      "Rang Nat.": "18",
+      "Rang Nat.": "24",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0011239S",
@@ -257,7 +335,20 @@
       "Moy.": "543"
     },
     {
-      "Rang Nat.": "19",
+      "Rang Nat.": "25",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0979299F",
+      "Nom": "CREUZET MAXIME",
+      "Club": "0221016",
+      "Ville": "CHENOVE",
+      "S1": "547",
+      "S2": "537",
+      "S3": "0",
+      "Moy.": "542"
+    },
+    {
+      "Rang Nat.": "26",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0025206Y",
@@ -270,7 +361,7 @@
       "Moy.": "541"
     },
     {
-      "Rang Nat.": "20",
+      "Rang Nat.": "27",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0959020N",
@@ -283,7 +374,7 @@
       "Moy.": "541"
     },
     {
-      "Rang Nat.": "21",
+      "Rang Nat.": "28",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0964009L",
@@ -296,7 +387,20 @@
       "Moy.": "541"
     },
     {
-      "Rang Nat.": "22",
+      "Rang Nat.": "29",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0047417R",
+      "Nom": "MANGEOL EMERIC",
+      "Club": "0976093",
+      "Ville": "SAINT VALERY EN CAUX",
+      "S1": "544",
+      "S2": "539",
+      "S3": "537",
+      "Moy.": "540"
+    },
+    {
+      "Rang Nat.": "30",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0050527W",
@@ -309,7 +413,7 @@
       "Moy.": "539"
     },
     {
-      "Rang Nat.": "23",
+      "Rang Nat.": "31",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0004071A",
@@ -322,7 +426,7 @@
       "Moy.": "539"
     },
     {
-      "Rang Nat.": "24",
+      "Rang Nat.": "32",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0959378C",
@@ -335,7 +439,7 @@
       "Moy.": "538"
     },
     {
-      "Rang Nat.": "25",
+      "Rang Nat.": "33",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0003383C",
@@ -348,20 +452,33 @@
       "Moy.": "536"
     },
     {
-      "Rang Nat.": "26",
+      "Rang Nat.": "34",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0047417R",
-      "Nom": "MANGEOL EMERIC",
-      "Club": "0976093",
-      "Ville": "SAINT VALERY EN CAUX",
-      "S1": "539",
-      "S2": "537",
-      "S3": "532",
-      "Moy.": "536"
+      "Licence": "0973363D",
+      "Nom": "BRUNEL VICTOR",
+      "Club": "1033110",
+      "Ville": "AUROS",
+      "S1": "535",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "535"
     },
     {
-      "Rang Nat.": "27",
+      "Rang Nat.": "35",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0019262M",
+      "Nom": "THIBAULT SASHA",
+      "Club": "0289107",
+      "Ville": "BRIENON/ARMANCON",
+      "S1": "537",
+      "S2": "536",
+      "S3": "531",
+      "Moy.": "534"
+    },
+    {
+      "Rang Nat.": "36",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0980045S",
@@ -374,7 +491,7 @@
       "Moy.": "534"
     },
     {
-      "Rang Nat.": "28",
+      "Rang Nat.": "37",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0046194L",
@@ -387,7 +504,7 @@
       "Moy.": "533"
     },
     {
-      "Rang Nat.": "29",
+      "Rang Nat.": "38",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0982482R",
@@ -400,7 +517,20 @@
       "Moy.": "532"
     },
     {
-      "Rang Nat.": "30",
+      "Rang Nat.": "39",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0009793V",
+      "Nom": "FERNANDEZ MAEL",
+      "Club": "1033108",
+      "Ville": "BASSIN D'ARCACHON",
+      "S1": "542",
+      "S2": "522",
+      "S3": "0",
+      "Moy.": "532"
+    },
+    {
+      "Rang Nat.": "40",
       "Rang Reg.": "1",
       "Rang Dep.": "1",
       "Licence": "0007758H",
@@ -413,7 +543,7 @@
       "Moy.": "530"
     },
     {
-      "Rang Nat.": "31",
+      "Rang Nat.": "41",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0014554V",
@@ -426,7 +556,20 @@
       "Moy.": "529"
     },
     {
-      "Rang Nat.": "32",
+      "Rang Nat.": "42",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0941742H",
+      "Nom": "DE ABREU TONY",
+      "Club": "0289107",
+      "Ville": "BRIENON/ARMANCON",
+      "S1": "539",
+      "S2": "537",
+      "S3": "513",
+      "Moy.": "529"
+    },
+    {
+      "Rang Nat.": "43",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0940152E",
@@ -439,7 +582,20 @@
       "Moy.": "529"
     },
     {
-      "Rang Nat.": "33",
+      "Rang Nat.": "44",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0007069J",
+      "Nom": "BELAMY-TILLIET THÉO",
+      "Club": "0895289",
+      "Ville": "PONTOISE",
+      "S1": "534",
+      "S2": "531",
+      "S3": "524",
+      "Moy.": "529"
+    },
+    {
+      "Rang Nat.": "45",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0001475D",
@@ -452,7 +608,7 @@
       "Moy.": "529"
     },
     {
-      "Rang Nat.": "34",
+      "Rang Nat.": "46",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0984750F",
@@ -465,7 +621,20 @@
       "Moy.": "528"
     },
     {
-      "Rang Nat.": "35",
+      "Rang Nat.": "47",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0982804R",
+      "Nom": "RONDARD COME",
+      "Club": "1079182",
+      "Ville": "ARDIN",
+      "S1": "550",
+      "S2": "520",
+      "S3": "513",
+      "Moy.": "527"
+    },
+    {
+      "Rang Nat.": "48",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0022355Z",
@@ -473,25 +642,12 @@
       "Club": "0702073",
       "Ville": "VILLENEUVE ST GERMAIN",
       "S1": "532",
-      "S2": "522",
-      "S3": "0",
+      "S2": "527",
+      "S3": "522",
       "Moy.": "527"
     },
     {
-      "Rang Nat.": "36",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0007069J",
-      "Nom": "BELAMY-TILLIET THÉO",
-      "Club": "0895289",
-      "Ville": "PONTOISE",
-      "S1": "534",
-      "S2": "531",
-      "S3": "514",
-      "Moy.": "526"
-    },
-    {
-      "Rang Nat.": "37",
+      "Rang Nat.": "49",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0973914C",
@@ -504,7 +660,7 @@
       "Moy.": "526"
     },
     {
-      "Rang Nat.": "38",
+      "Rang Nat.": "50",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1047066M",
@@ -517,7 +673,7 @@
       "Moy.": "526"
     },
     {
-      "Rang Nat.": "39",
+      "Rang Nat.": "51",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0015265T",
@@ -530,7 +686,7 @@
       "Moy.": "525"
     },
     {
-      "Rang Nat.": "40",
+      "Rang Nat.": "52",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0039395W",
@@ -543,7 +699,7 @@
       "Moy.": "525"
     },
     {
-      "Rang Nat.": "41",
+      "Rang Nat.": "53",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0983825A",
@@ -556,7 +712,7 @@
       "Moy.": "525"
     },
     {
-      "Rang Nat.": "42",
+      "Rang Nat.": "54",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0027013M",
@@ -569,7 +725,7 @@
       "Moy.": "524"
     },
     {
-      "Rang Nat.": "43",
+      "Rang Nat.": "55",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0034039Z",
@@ -582,7 +738,7 @@
       "Moy.": "524"
     },
     {
-      "Rang Nat.": "44",
+      "Rang Nat.": "56",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1002678G",
@@ -595,7 +751,7 @@
       "Moy.": "524"
     },
     {
-      "Rang Nat.": "45",
+      "Rang Nat.": "57",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0005512S",
@@ -608,7 +764,7 @@
       "Moy.": "523"
     },
     {
-      "Rang Nat.": "46",
+      "Rang Nat.": "58",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0958217R",
@@ -621,20 +777,33 @@
       "Moy.": "522"
     },
     {
-      "Rang Nat.": "47",
+      "Rang Nat.": "59",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0009793V",
-      "Nom": "FERNANDEZ MAEL",
-      "Club": "1033108",
-      "Ville": "BASSIN D'ARCACHON",
+      "Licence": "0914944E",
+      "Nom": "BUSSY AXEL",
+      "Club": "0163157",
+      "Ville": "RIOM",
       "S1": "522",
       "S2": "0",
       "S3": "0",
       "Moy.": "522"
     },
     {
-      "Rang Nat.": "48",
+      "Rang Nat.": "60",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0989651H",
+      "Nom": "ROMAIN HUGO",
+      "Club": "0163157",
+      "Ville": "RIOM",
+      "S1": "522",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "522"
+    },
+    {
+      "Rang Nat.": "61",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0967366K",
@@ -647,33 +816,7 @@
       "Moy.": "521"
     },
     {
-      "Rang Nat.": "49",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0985029J",
-      "Nom": "PLUMEREAU BAPTISTE",
-      "Club": "1086189",
-      "Ville": "SMARVES",
-      "S1": "521",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "521"
-    },
-    {
-      "Rang Nat.": "50",
-      "Rang Reg.": "2",
-      "Rang Dep.": "",
-      "Licence": "0013522Y",
-      "Nom": "KIENTZLER ROBIN",
-      "Club": "0668173",
-      "Ville": "STE CROIX ARC CLUB",
-      "S1": "521",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "521"
-    },
-    {
-      "Rang Nat.": "51",
+      "Rang Nat.": "62",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0007843A",
@@ -686,7 +829,20 @@
       "Moy.": "521"
     },
     {
-      "Rang Nat.": "52",
+      "Rang Nat.": "63",
+      "Rang Reg.": "2",
+      "Rang Dep.": "",
+      "Licence": "0013522Y",
+      "Nom": "KIENTZLER ROBIN",
+      "Club": "0668173",
+      "Ville": "STE CROIX ARC CLUB",
+      "S1": "521",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "521"
+    },
+    {
+      "Rang Nat.": "64",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0048781Y",
@@ -699,20 +855,33 @@
       "Moy.": "521"
     },
     {
-      "Rang Nat.": "53",
+      "Rang Nat.": "65",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0019262M",
-      "Nom": "THIBAULT SASHA",
-      "Club": "0289107",
-      "Ville": "BRIENON/ARMANCON",
-      "S1": "536",
-      "S2": "526",
-      "S3": "500",
+      "Licence": "0985029J",
+      "Nom": "PLUMEREAU BAPTISTE",
+      "Club": "1086189",
+      "Ville": "SMARVES",
+      "S1": "521",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "521"
+    },
+    {
+      "Rang Nat.": "66",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0007059Y",
+      "Nom": "LAHAYE SACHA",
+      "Club": "1313051",
+      "Ville": "MARSEILLE",
+      "S1": "520",
+      "S2": "0",
+      "S3": "0",
       "Moy.": "520"
     },
     {
-      "Rang Nat.": "54",
+      "Rang Nat.": "67",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1003010A",
@@ -725,20 +894,7 @@
       "Moy.": "519"
     },
     {
-      "Rang Nat.": "55",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0941742H",
-      "Nom": "DE ABREU TONY",
-      "Club": "0289107",
-      "Ville": "BRIENON/ARMANCON",
-      "S1": "537",
-      "S2": "501",
-      "S3": "0",
-      "Moy.": "519"
-    },
-    {
-      "Rang Nat.": "56",
+      "Rang Nat.": "68",
       "Rang Reg.": "3",
       "Rang Dep.": "",
       "Licence": "0062458P",
@@ -751,20 +907,7 @@
       "Moy.": "519"
     },
     {
-      "Rang Nat.": "57",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0968757X",
-      "Nom": "BRUN JULES",
-      "Club": "1132109",
-      "Ville": "CONDOM",
-      "S1": "527",
-      "S2": "509",
-      "S3": "0",
-      "Moy.": "518"
-    },
-    {
-      "Rang Nat.": "58",
+      "Rang Nat.": "69",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0961879W",
@@ -777,7 +920,7 @@
       "Moy.": "517"
     },
     {
-      "Rang Nat.": "59",
+      "Rang Nat.": "70",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1030132E",
@@ -790,7 +933,7 @@
       "Moy.": "517"
     },
     {
-      "Rang Nat.": "60",
+      "Rang Nat.": "71",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0032058W",
@@ -803,7 +946,7 @@
       "Moy.": "517"
     },
     {
-      "Rang Nat.": "61",
+      "Rang Nat.": "72",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0003174A",
@@ -816,20 +959,7 @@
       "Moy.": "517"
     },
     {
-      "Rang Nat.": "62",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0982804R",
-      "Nom": "RONDARD COME",
-      "Club": "1079182",
-      "Ville": "ARDIN",
-      "S1": "520",
-      "S2": "513",
-      "S3": "0",
-      "Moy.": "516"
-    },
-    {
-      "Rang Nat.": "63",
+      "Rang Nat.": "73",
       "Rang Reg.": "4",
       "Rang Dep.": "",
       "Licence": "0007183H",
@@ -842,20 +972,7 @@
       "Moy.": "516"
     },
     {
-      "Rang Nat.": "64",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0037731M",
-      "Nom": "HAUDIQUEZ TIMOTHE",
-      "Club": "0976095",
-      "Ville": "BIHOREL",
-      "S1": "516",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "516"
-    },
-    {
-      "Rang Nat.": "65",
+      "Rang Nat.": "74",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0030670M",
@@ -868,7 +985,33 @@
       "Moy.": "516"
     },
     {
-      "Rang Nat.": "66",
+      "Rang Nat.": "75",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0037731M",
+      "Nom": "HAUDIQUEZ TIMOTHE",
+      "Club": "0976095",
+      "Ville": "BIHOREL",
+      "S1": "516",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "516"
+    },
+    {
+      "Rang Nat.": "76",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0017272Z",
+      "Nom": "FRONIA TIMOTHEE",
+      "Club": "0760214",
+      "Ville": "ESTREES ST DENIS",
+      "S1": "516",
+      "S2": "504",
+      "S3": "0",
+      "Moy.": "510"
+    },
+    {
+      "Rang Nat.": "77",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0014320R",
@@ -881,20 +1024,7 @@
       "Moy.": "516"
     },
     {
-      "Rang Nat.": "67",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0017272Z",
-      "Nom": "FRONIA TIMOTHEE",
-      "Club": "0760214",
-      "Ville": "ESTREES ST DENIS",
-      "S1": "516",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "516"
-    },
-    {
-      "Rang Nat.": "68",
+      "Rang Nat.": "78",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0016438T",
@@ -907,7 +1037,7 @@
       "Moy.": "515"
     },
     {
-      "Rang Nat.": "69",
+      "Rang Nat.": "79",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1005347X",
@@ -920,7 +1050,7 @@
       "Moy.": "515"
     },
     {
-      "Rang Nat.": "70",
+      "Rang Nat.": "80",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0955432N",
@@ -933,7 +1063,7 @@
       "Moy.": "514"
     },
     {
-      "Rang Nat.": "71",
+      "Rang Nat.": "81",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0969448Y",
@@ -946,7 +1076,7 @@
       "Moy.": "514"
     },
     {
-      "Rang Nat.": "72",
+      "Rang Nat.": "82",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0046995G",
@@ -959,7 +1089,20 @@
       "Moy.": "513"
     },
     {
-      "Rang Nat.": "73",
+      "Rang Nat.": "83",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0968757X",
+      "Nom": "BRUN JULES",
+      "Club": "1132109",
+      "Ville": "CONDOM",
+      "S1": "527",
+      "S2": "509",
+      "S3": "505",
+      "Moy.": "513"
+    },
+    {
+      "Rang Nat.": "84",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0000823V",
@@ -972,7 +1115,7 @@
       "Moy.": "513"
     },
     {
-      "Rang Nat.": "74",
+      "Rang Nat.": "85",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0965172A",
@@ -985,7 +1128,7 @@
       "Moy.": "513"
     },
     {
-      "Rang Nat.": "75",
+      "Rang Nat.": "86",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0048798S",
@@ -998,7 +1141,33 @@
       "Moy.": "512"
     },
     {
-      "Rang Nat.": "76",
+      "Rang Nat.": "87",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0018160P",
+      "Nom": "MALLERON RONAN",
+      "Club": "0221013",
+      "Ville": "CHEVIGNY SAINT SAUVEUR",
+      "S1": "533",
+      "S2": "491",
+      "S3": "0",
+      "Moy.": "512"
+    },
+    {
+      "Rang Nat.": "88",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0962742J",
+      "Nom": "BLANCHELAND-FONTAINE MARIUS",
+      "Club": "0895293",
+      "Ville": "SARCELLES",
+      "S1": "512",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "512"
+    },
+    {
+      "Rang Nat.": "89",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0036712E",
@@ -1011,7 +1180,7 @@
       "Moy.": "512"
     },
     {
-      "Rang Nat.": "77",
+      "Rang Nat.": "90",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0029550V",
@@ -1024,7 +1193,7 @@
       "Moy.": "511"
     },
     {
-      "Rang Nat.": "78",
+      "Rang Nat.": "91",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0047768X",
@@ -1037,7 +1206,7 @@
       "Moy.": "510"
     },
     {
-      "Rang Nat.": "79",
+      "Rang Nat.": "92",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0987978P",
@@ -1050,7 +1219,7 @@
       "Moy.": "510"
     },
     {
-      "Rang Nat.": "80",
+      "Rang Nat.": "93",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0980116U",
@@ -1063,7 +1232,7 @@
       "Moy.": "509"
     },
     {
-      "Rang Nat.": "81",
+      "Rang Nat.": "94",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0008226S",
@@ -1076,7 +1245,7 @@
       "Moy.": "509"
     },
     {
-      "Rang Nat.": "82",
+      "Rang Nat.": "95",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0022891G",
@@ -1089,33 +1258,20 @@
       "Moy.": "508"
     },
     {
-      "Rang Nat.": "83",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1045445D",
-      "Nom": "SIEMON ROMAIN",
-      "Club": "0895289",
-      "Ville": "PONTOISE",
-      "S1": "526",
-      "S2": "506",
-      "S3": "494",
-      "Moy.": "508"
-    },
-    {
-      "Rang Nat.": "84",
+      "Rang Nat.": "96",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1055267X",
       "Nom": "RUAUT NOA",
       "Club": "0914009",
       "Ville": "VERSON",
-      "S1": "514",
+      "S1": "529",
       "S2": "514",
-      "S3": "496",
-      "Moy.": "508"
+      "S3": "514",
+      "Moy.": "519"
     },
     {
-      "Rang Nat.": "85",
+      "Rang Nat.": "97",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0988923S",
@@ -1128,7 +1284,7 @@
       "Moy.": "508"
     },
     {
-      "Rang Nat.": "86",
+      "Rang Nat.": "98",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0000014R",
@@ -1141,7 +1297,7 @@
       "Moy.": "508"
     },
     {
-      "Rang Nat.": "87",
+      "Rang Nat.": "99",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0986455J",
@@ -1154,7 +1310,20 @@
       "Moy.": "507"
     },
     {
-      "Rang Nat.": "88",
+      "Rang Nat.": "100",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0031170F",
+      "Nom": "ROUSSEAU GABIN",
+      "Club": "0418001",
+      "Ville": "BOURGES AC",
+      "S1": "519",
+      "S2": "510",
+      "S3": "492",
+      "Moy.": "507"
+    },
+    {
+      "Rang Nat.": "101",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0968207Z",
@@ -1167,7 +1336,7 @@
       "Moy.": "507"
     },
     {
-      "Rang Nat.": "89",
+      "Rang Nat.": "102",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0994075S",
@@ -1180,7 +1349,7 @@
       "Moy.": "506"
     },
     {
-      "Rang Nat.": "90",
+      "Rang Nat.": "103",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0041911F",
@@ -1193,33 +1362,20 @@
       "Moy.": "506"
     },
     {
-      "Rang Nat.": "91",
+      "Rang Nat.": "104",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0007038A",
-      "Nom": "WARLET BALTHAZAR",
-      "Club": "0895289",
-      "Ville": "PONTOISE",
-      "S1": "506",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "506"
-    },
-    {
-      "Rang Nat.": "92",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0031170F",
-      "Nom": "ROUSSEAU GABIN",
-      "Club": "0418001",
-      "Ville": "BOURGES AC",
-      "S1": "519",
-      "S2": "492",
-      "S3": "0",
+      "Licence": "0936435P",
+      "Nom": "ROUZAUD LOUIS",
+      "Club": "1111017",
+      "Ville": "CASTELNAUDARY",
+      "S1": "537",
+      "S2": "508",
+      "S3": "472",
       "Moy.": "505"
     },
     {
-      "Rang Nat.": "93",
+      "Rang Nat.": "105",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0050853A",
@@ -1232,20 +1388,20 @@
       "Moy.": "505"
     },
     {
-      "Rang Nat.": "94",
+      "Rang Nat.": "106",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0967477F",
-      "Nom": "LARDIER THYBALD",
-      "Club": "0221016",
-      "Ville": "CHENOVE",
-      "S1": "504",
-      "S2": "0",
+      "Licence": "0007038A",
+      "Nom": "WARLET BALTHAZAR",
+      "Club": "0895289",
+      "Ville": "PONTOISE",
+      "S1": "506",
+      "S2": "502",
       "S3": "0",
       "Moy.": "504"
     },
     {
-      "Rang Nat.": "95",
+      "Rang Nat.": "107",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0035759U",
@@ -1258,7 +1414,7 @@
       "Moy.": "503"
     },
     {
-      "Rang Nat.": "96",
+      "Rang Nat.": "108",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0982722B",
@@ -1271,7 +1427,7 @@
       "Moy.": "503"
     },
     {
-      "Rang Nat.": "97",
+      "Rang Nat.": "109",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0058577W",
@@ -1279,12 +1435,12 @@
       "Club": "0893212",
       "Ville": "BAGNOLET",
       "S1": "503",
-      "S2": "0",
+      "S2": "463",
       "S3": "0",
-      "Moy.": "503"
+      "Moy.": "483"
     },
     {
-      "Rang Nat.": "98",
+      "Rang Nat.": "110",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0980971Y",
@@ -1293,11 +1449,11 @@
       "Ville": "MONTAIGU",
       "S1": "510",
       "S2": "509",
-      "S3": "487",
+      "S3": "489",
       "Moy.": "502"
     },
     {
-      "Rang Nat.": "99",
+      "Rang Nat.": "111",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0026609Y",
@@ -1310,20 +1466,7 @@
       "Moy.": "501"
     },
     {
-      "Rang Nat.": "100",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1005876G",
-      "Nom": "FAGOT YANIS",
-      "Club": "0221016",
-      "Ville": "CHENOVE",
-      "S1": "501",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "501"
-    },
-    {
-      "Rang Nat.": "101",
+      "Rang Nat.": "112",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1000029J",
@@ -1336,7 +1479,20 @@
       "Moy.": "500"
     },
     {
-      "Rang Nat.": "102",
+      "Rang Nat.": "113",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0019146L",
+      "Nom": "RAGON NATHAEL",
+      "Club": "0289107",
+      "Ville": "BRIENON/ARMANCON",
+      "S1": "500",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "500"
+    },
+    {
+      "Rang Nat.": "114",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0032753B",
@@ -1349,7 +1505,33 @@
       "Moy.": "500"
     },
     {
-      "Rang Nat.": "103",
+      "Rang Nat.": "115",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0042530D",
+      "Nom": "THIBAULT VALENTIN",
+      "Club": "1033100",
+      "Ville": "AMBARES",
+      "S1": "508",
+      "S2": "491",
+      "S3": "0",
+      "Moy.": "499"
+    },
+    {
+      "Rang Nat.": "116",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0967477F",
+      "Nom": "LARDIER THYBALD",
+      "Club": "0221016",
+      "Ville": "CHENOVE",
+      "S1": "504",
+      "S2": "495",
+      "S3": "0",
+      "Moy.": "499"
+    },
+    {
+      "Rang Nat.": "117",
       "Rang Reg.": "5",
       "Rang Dep.": "",
       "Licence": "0968937T",
@@ -1362,20 +1544,20 @@
       "Moy.": "499"
     },
     {
-      "Rang Nat.": "104",
+      "Rang Nat.": "118",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0967313C",
-      "Nom": "PUISSOCHET LUKAS",
-      "Club": "0163154",
-      "Ville": "CHAMALIERES",
-      "S1": "499",
-      "S2": "0",
-      "S3": "0",
+      "Licence": "0984708K",
+      "Nom": "CHARBONNIER ROMAIN",
+      "Club": "0163168",
+      "Ville": "ST BEAUZIRE",
+      "S1": "519",
+      "S2": "498",
+      "S3": "480",
       "Moy.": "499"
     },
     {
-      "Rang Nat.": "105",
+      "Rang Nat.": "119",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0020384G",
@@ -1388,7 +1570,7 @@
       "Moy.": "498"
     },
     {
-      "Rang Nat.": "106",
+      "Rang Nat.": "120",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0985452U",
@@ -1401,7 +1583,7 @@
       "Moy.": "498"
     },
     {
-      "Rang Nat.": "107",
+      "Rang Nat.": "121",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0015457B",
@@ -1414,20 +1596,20 @@
       "Moy.": "498"
     },
     {
-      "Rang Nat.": "108",
+      "Rang Nat.": "122",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0042084U",
-      "Nom": "DENIS LADISLAS",
-      "Club": "1272109",
-      "Ville": "SILLE LE GUILLAUME",
-      "S1": "498",
-      "S2": "0",
+      "Licence": "1005876G",
+      "Nom": "FAGOT YANIS",
+      "Club": "0221016",
+      "Ville": "CHENOVE",
+      "S1": "501",
+      "S2": "495",
       "S3": "0",
       "Moy.": "498"
     },
     {
-      "Rang Nat.": "109",
+      "Rang Nat.": "123",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0008460W",
@@ -1440,7 +1622,20 @@
       "Moy.": "498"
     },
     {
-      "Rang Nat.": "110",
+      "Rang Nat.": "124",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0042084U",
+      "Nom": "DENIS LADISLAS",
+      "Club": "1272109",
+      "Ville": "SILLE LE GUILLAUME",
+      "S1": "498",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "498"
+    },
+    {
+      "Rang Nat.": "125",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0008464A",
@@ -1453,7 +1648,7 @@
       "Moy.": "497"
     },
     {
-      "Rang Nat.": "111",
+      "Rang Nat.": "126",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1019127X",
@@ -1466,7 +1661,7 @@
       "Moy.": "497"
     },
     {
-      "Rang Nat.": "112",
+      "Rang Nat.": "127",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0015690E",
@@ -1479,20 +1674,20 @@
       "Moy.": "496"
     },
     {
-      "Rang Nat.": "113",
+      "Rang Nat.": "128",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0051572G",
       "Nom": "ROBERT EZECKIEL",
       "Club": "1244025",
       "Ville": "COUERON",
-      "S1": "525",
-      "S2": "502",
-      "S3": "462",
-      "Moy.": "496"
+      "S1": "526",
+      "S2": "525",
+      "S3": "502",
+      "Moy.": "517"
     },
     {
-      "Rang Nat.": "114",
+      "Rang Nat.": "129",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0972206W",
@@ -1505,7 +1700,7 @@
       "Moy.": "495"
     },
     {
-      "Rang Nat.": "115",
+      "Rang Nat.": "130",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0021541P",
@@ -1518,7 +1713,7 @@
       "Moy.": "495"
     },
     {
-      "Rang Nat.": "116",
+      "Rang Nat.": "131",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0020997Y",
@@ -1531,7 +1726,7 @@
       "Moy.": "494"
     },
     {
-      "Rang Nat.": "117",
+      "Rang Nat.": "132",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0000784C",
@@ -1544,7 +1739,7 @@
       "Moy.": "494"
     },
     {
-      "Rang Nat.": "118",
+      "Rang Nat.": "133",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0003568D",
@@ -1552,25 +1747,25 @@
       "Club": "0893219",
       "Ville": "CLICHY SOUS BOIS",
       "S1": "520",
-      "S2": "483",
-      "S3": "477",
-      "Moy.": "493"
+      "S2": "497",
+      "S3": "483",
+      "Moy.": "500"
     },
     {
-      "Rang Nat.": "119",
+      "Rang Nat.": "134",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0973241W",
       "Nom": "MUZELLE SHOWN",
       "Club": "0142123",
       "Ville": "VILLEREST",
-      "S1": "493",
-      "S2": "0",
+      "S1": "513",
+      "S2": "493",
       "S3": "0",
-      "Moy.": "493"
+      "Moy.": "503"
     },
     {
-      "Rang Nat.": "120",
+      "Rang Nat.": "135",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0948468U",
@@ -1583,7 +1778,7 @@
       "Moy.": "492"
     },
     {
-      "Rang Nat.": "121",
+      "Rang Nat.": "136",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0024743V",
@@ -1596,7 +1791,7 @@
       "Moy.": "492"
     },
     {
-      "Rang Nat.": "122",
+      "Rang Nat.": "137",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1009282G",
@@ -1609,7 +1804,7 @@
       "Moy.": "492"
     },
     {
-      "Rang Nat.": "123",
+      "Rang Nat.": "138",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0042716F",
@@ -1622,20 +1817,7 @@
       "Moy.": "492"
     },
     {
-      "Rang Nat.": "124",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0984708K",
-      "Nom": "CHARBONNIER ROMAIN",
-      "Club": "0163168",
-      "Ville": "ST BEAUZIRE",
-      "S1": "519",
-      "S2": "480",
-      "S3": "477",
-      "Moy.": "492"
-    },
-    {
-      "Rang Nat.": "125",
+      "Rang Nat.": "139",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0042684W",
@@ -1648,7 +1830,7 @@
       "Moy.": "492"
     },
     {
-      "Rang Nat.": "126",
+      "Rang Nat.": "140",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0024862Z",
@@ -1661,33 +1843,7 @@
       "Moy.": "492"
     },
     {
-      "Rang Nat.": "127",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0037882B",
-      "Nom": "FURMANIAK VICTOR",
-      "Club": "0702066",
-      "Ville": "PINON",
-      "S1": "492",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "492"
-    },
-    {
-      "Rang Nat.": "128",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0003548G",
-      "Nom": "GHELMA NOÉ",
-      "Club": "0173236",
-      "Ville": "BOURG SAINT MAURICE",
-      "S1": "492",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "492"
-    },
-    {
-      "Rang Nat.": "129",
+      "Rang Nat.": "141",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0042436B",
@@ -1700,33 +1856,7 @@
       "Moy.": "491"
     },
     {
-      "Rang Nat.": "130",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0042530D",
-      "Nom": "THIBAULT VALENTIN",
-      "Club": "1033100",
-      "Ville": "AMBARES",
-      "S1": "491",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "491"
-    },
-    {
-      "Rang Nat.": "131",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0018160P",
-      "Nom": "MALLERON RONAN",
-      "Club": "0221013",
-      "Ville": "CHEVIGNY SAINT SAUVEUR",
-      "S1": "491",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "491"
-    },
-    {
-      "Rang Nat.": "132",
+      "Rang Nat.": "142",
       "Rang Reg.": "6",
       "Rang Dep.": "",
       "Licence": "1007468M",
@@ -1735,11 +1865,11 @@
       "Ville": "RETHEL",
       "S1": "510",
       "S2": "503",
-      "S3": "459",
-      "Moy.": "490"
+      "S3": "461",
+      "Moy.": "491"
     },
     {
-      "Rang Nat.": "133",
+      "Rang Nat.": "143",
       "Rang Reg.": "7",
       "Rang Dep.": "",
       "Licence": "0031113U",
@@ -1752,20 +1882,7 @@
       "Moy.": "490"
     },
     {
-      "Rang Nat.": "134",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0936435P",
-      "Nom": "ROUZAUD LOUIS",
-      "Club": "1111017",
-      "Ville": "CASTELNAUDARY",
-      "S1": "508",
-      "S2": "472",
-      "S3": "0",
-      "Moy.": "490"
-    },
-    {
-      "Rang Nat.": "135",
+      "Rang Nat.": "144",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0050651F",
@@ -1778,7 +1895,7 @@
       "Moy.": "490"
     },
     {
-      "Rang Nat.": "136",
+      "Rang Nat.": "145",
       "Rang Reg.": "8",
       "Rang Dep.": "",
       "Licence": "0029844P",
@@ -1791,20 +1908,7 @@
       "Moy.": "489"
     },
     {
-      "Rang Nat.": "137",
-      "Rang Reg.": "9",
-      "Rang Dep.": "",
-      "Licence": "0002964X",
-      "Nom": "PROBST MATHEO",
-      "Club": "0668179",
-      "Ville": "COLMAR",
-      "S1": "489",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "489"
-    },
-    {
-      "Rang Nat.": "138",
+      "Rang Nat.": "146",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0044871Y",
@@ -1817,20 +1921,33 @@
       "Moy.": "489"
     },
     {
-      "Rang Nat.": "139",
+      "Rang Nat.": "147",
+      "Rang Reg.": "9",
+      "Rang Dep.": "",
+      "Licence": "0002964X",
+      "Nom": "PROBST MATHEO",
+      "Club": "0668179",
+      "Ville": "COLMAR",
+      "S1": "489",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "489"
+    },
+    {
+      "Rang Nat.": "148",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0989616V",
-      "Nom": "LEGER WILLIAM",
-      "Club": "0891175",
-      "Ville": "DRAVEIL SENART",
-      "S1": "488",
-      "S2": "0",
+      "Licence": "0967313C",
+      "Nom": "PUISSOCHET LUKAS",
+      "Club": "0163154",
+      "Ville": "CHAMALIERES",
+      "S1": "499",
+      "S2": "477",
       "S3": "0",
       "Moy.": "488"
     },
     {
-      "Rang Nat.": "140",
+      "Rang Nat.": "149",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1064821J",
@@ -1843,7 +1960,20 @@
       "Moy.": "487"
     },
     {
-      "Rang Nat.": "141",
+      "Rang Nat.": "150",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0042200V",
+      "Nom": "PAIELLA PIERRE",
+      "Club": "0895274",
+      "Ville": "SANNOIS",
+      "S1": "513",
+      "S2": "475",
+      "S3": "471",
+      "Moy.": "486"
+    },
+    {
+      "Rang Nat.": "151",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0008338N",
@@ -1856,7 +1986,7 @@
       "Moy.": "486"
     },
     {
-      "Rang Nat.": "142",
+      "Rang Nat.": "152",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0022502J",
@@ -1869,7 +1999,20 @@
       "Moy.": "486"
     },
     {
-      "Rang Nat.": "143",
+      "Rang Nat.": "153",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0015083V",
+      "Nom": "GERLAND AUGUSTIN",
+      "Club": "1079175",
+      "Ville": "NIORT",
+      "S1": "486",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "486"
+    },
+    {
+      "Rang Nat.": "154",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0015983Y",
@@ -1882,20 +2025,7 @@
       "Moy.": "485"
     },
     {
-      "Rang Nat.": "144",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0043850N",
-      "Nom": "DEMONSSAND ALIX",
-      "Club": "1033100",
-      "Ville": "AMBARES",
-      "S1": "485",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "485"
-    },
-    {
-      "Rang Nat.": "145",
+      "Rang Nat.": "155",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0005183J",
@@ -1908,7 +2038,33 @@
       "Moy.": "484"
     },
     {
-      "Rang Nat.": "146",
+      "Rang Nat.": "156",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0029512D",
+      "Nom": "DEVAUX MATHIEU",
+      "Club": "1033078",
+      "Ville": "LE BOUSCAT",
+      "S1": "516",
+      "S2": "452",
+      "S3": "0",
+      "Moy.": "484"
+    },
+    {
+      "Rang Nat.": "157",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0057009S",
+      "Nom": "BEAUDET THEOPHILE",
+      "Club": "0895289",
+      "Ville": "PONTOISE",
+      "S1": "509",
+      "S2": "458",
+      "S3": "0",
+      "Moy.": "483"
+    },
+    {
+      "Rang Nat.": "158",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0024580T",
@@ -1921,7 +2077,7 @@
       "Moy.": "483"
     },
     {
-      "Rang Nat.": "147",
+      "Rang Nat.": "159",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0008784Y",
@@ -1934,7 +2090,20 @@
       "Moy.": "483"
     },
     {
-      "Rang Nat.": "148",
+      "Rang Nat.": "160",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0043850N",
+      "Nom": "DEMONSSAND ALIX",
+      "Club": "1033100",
+      "Ville": "AMBARES",
+      "S1": "485",
+      "S2": "482",
+      "S3": "0",
+      "Moy.": "483"
+    },
+    {
+      "Rang Nat.": "161",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0029846S",
@@ -1947,7 +2116,20 @@
       "Moy.": "483"
     },
     {
-      "Rang Nat.": "149",
+      "Rang Nat.": "162",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0060471E",
+      "Nom": "MINODIER MARLEY",
+      "Club": "1047146",
+      "Ville": "STE MAURE DE PEYRIAC",
+      "S1": "491",
+      "S2": "483",
+      "S3": "475",
+      "Moy.": "483"
+    },
+    {
+      "Rang Nat.": "163",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0008195H",
@@ -1960,7 +2142,7 @@
       "Moy.": "482"
     },
     {
-      "Rang Nat.": "150",
+      "Rang Nat.": "164",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1033360I",
@@ -1973,20 +2155,20 @@
       "Moy.": "482"
     },
     {
-      "Rang Nat.": "151",
+      "Rang Nat.": "165",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "1035784O",
-      "Nom": "LAVANDEIRA NOAH",
-      "Club": "0169185",
-      "Ville": "SLCTA",
+      "Licence": "0008109P",
+      "Nom": "GENESTE-PLUVY LIAM",
+      "Club": "1033110",
+      "Ville": "AUROS",
       "S1": "482",
       "S2": "0",
       "S3": "0",
       "Moy.": "482"
     },
     {
-      "Rang Nat.": "152",
+      "Rang Nat.": "166",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0980845L",
@@ -1999,7 +2181,46 @@
       "Moy.": "482"
     },
     {
-      "Rang Nat.": "153",
+      "Rang Nat.": "167",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1035784O",
+      "Nom": "LAVANDEIRA NOAH",
+      "Club": "0169185",
+      "Ville": "SLCTA",
+      "S1": "482",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "482"
+    },
+    {
+      "Rang Nat.": "168",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0009001J",
+      "Nom": "CADOZ RAPHAËL",
+      "Club": "1033113",
+      "Ville": "SAINT MEDARD EN JALLES",
+      "S1": "481",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "481"
+    },
+    {
+      "Rang Nat.": "169",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0003548G",
+      "Nom": "GHELMA NOÉ",
+      "Club": "0173236",
+      "Ville": "BOURG SAINT MAURICE",
+      "S1": "492",
+      "S2": "469",
+      "S3": "0",
+      "Moy.": "480"
+    },
+    {
+      "Rang Nat.": "170",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0016533W",
@@ -2012,7 +2233,7 @@
       "Moy.": "480"
     },
     {
-      "Rang Nat.": "154",
+      "Rang Nat.": "171",
       "Rang Reg.": "10",
       "Rang Dep.": "",
       "Licence": "0017918B",
@@ -2025,7 +2246,7 @@
       "Moy.": "479"
     },
     {
-      "Rang Nat.": "155",
+      "Rang Nat.": "172",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0018283Y",
@@ -2038,7 +2259,7 @@
       "Moy.": "478"
     },
     {
-      "Rang Nat.": "156",
+      "Rang Nat.": "173",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0017804C",
@@ -2051,7 +2272,7 @@
       "Moy.": "478"
     },
     {
-      "Rang Nat.": "157",
+      "Rang Nat.": "174",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0992554N",
@@ -2064,20 +2285,7 @@
       "Moy.": "478"
     },
     {
-      "Rang Nat.": "158",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0988030W",
-      "Nom": "LAFFOND-HAUTCOLIN ADAM",
-      "Club": "0258053",
-      "Ville": "LA CHARITE SUR LOIRE",
-      "S1": "478",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "478"
-    },
-    {
-      "Rang Nat.": "159",
+      "Rang Nat.": "175",
       "Rang Reg.": "11",
       "Rang Dep.": "",
       "Licence": "0968542N",
@@ -2090,7 +2298,46 @@
       "Moy.": "478"
     },
     {
-      "Rang Nat.": "160",
+      "Rang Nat.": "176",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0988030W",
+      "Nom": "LAFFOND-HAUTCOLIN ADAM",
+      "Club": "0258053",
+      "Ville": "LA CHARITE SUR LOIRE",
+      "S1": "478",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "478"
+    },
+    {
+      "Rang Nat.": "177",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0028140M",
+      "Nom": "RUYER-QUIL JOEL",
+      "Club": "0173231",
+      "Ville": "CHAMBERY",
+      "S1": "478",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "478"
+    },
+    {
+      "Rang Nat.": "178",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0037882B",
+      "Nom": "FURMANIAK VICTOR",
+      "Club": "0702066",
+      "Ville": "PINON",
+      "S1": "492",
+      "S2": "463",
+      "S3": "0",
+      "Moy.": "477"
+    },
+    {
+      "Rang Nat.": "179",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0053776C",
@@ -2103,7 +2350,20 @@
       "Moy.": "477"
     },
     {
-      "Rang Nat.": "161",
+      "Rang Nat.": "180",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0048424K",
+      "Nom": "ALILA TAHA",
+      "Club": "0893212",
+      "Ville": "BAGNOLET",
+      "S1": "489",
+      "S2": "477",
+      "S3": "0",
+      "Moy.": "483"
+    },
+    {
+      "Rang Nat.": "181",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0054869R",
@@ -2116,46 +2376,7 @@
       "Moy.": "477"
     },
     {
-      "Rang Nat.": "162",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0048424K",
-      "Nom": "ALILA TAHA",
-      "Club": "0893212",
-      "Ville": "BAGNOLET",
-      "S1": "477",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "477"
-    },
-    {
-      "Rang Nat.": "163",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0039820H",
-      "Nom": "FERRÉ-JOUFFE YANN",
-      "Club": "0335083",
-      "Ville": "CESSON SEVIGNE",
-      "S1": "487",
-      "S2": "465",
-      "S3": "0",
-      "Moy.": "476"
-    },
-    {
-      "Rang Nat.": "164",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1036774Q",
-      "Nom": "VANDENBUSSCHE WILLIAM",
-      "Club": "0759112",
-      "Ville": "DUNKERQUE",
-      "S1": "476",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "476"
-    },
-    {
-      "Rang Nat.": "165",
+      "Rang Nat.": "182",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0041180L",
@@ -2168,7 +2389,20 @@
       "Moy.": "476"
     },
     {
-      "Rang Nat.": "166",
+      "Rang Nat.": "183",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1036774Q",
+      "Nom": "VANDENBUSSCHE WILLIAM",
+      "Club": "0759112",
+      "Ville": "DUNKERQUE",
+      "S1": "476",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "476"
+    },
+    {
+      "Rang Nat.": "184",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0011956W",
@@ -2181,7 +2415,7 @@
       "Moy.": "475"
     },
     {
-      "Rang Nat.": "167",
+      "Rang Nat.": "185",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0027699H",
@@ -2194,20 +2428,33 @@
       "Moy.": "475"
     },
     {
-      "Rang Nat.": "168",
+      "Rang Nat.": "186",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0060471E",
-      "Nom": "MINODIER MARLEY",
-      "Club": "1047146",
-      "Ville": "STE MAURE DE PEYRIAC",
-      "S1": "491",
-      "S2": "483",
-      "S3": "450",
+      "Licence": "1021710G",
+      "Nom": "GILLIARD ENZO",
+      "Club": "1166193",
+      "Ville": "PRADES",
+      "S1": "483",
+      "S2": "473",
+      "S3": "466",
       "Moy.": "474"
     },
     {
-      "Rang Nat.": "169",
+      "Rang Nat.": "187",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0022879U",
+      "Nom": "DEBOEUF TERENCE",
+      "Club": "1079178",
+      "Ville": "MAZIERES EN GATINE",
+      "S1": "495",
+      "S2": "484",
+      "S3": "442",
+      "Moy.": "473"
+    },
+    {
+      "Rang Nat.": "188",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1048805J",
@@ -2220,7 +2467,7 @@
       "Moy.": "473"
     },
     {
-      "Rang Nat.": "170",
+      "Rang Nat.": "189",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0940582X",
@@ -2233,7 +2480,7 @@
       "Moy.": "473"
     },
     {
-      "Rang Nat.": "171",
+      "Rang Nat.": "190",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0023677L",
@@ -2246,7 +2493,20 @@
       "Moy.": "472"
     },
     {
-      "Rang Nat.": "172",
+      "Rang Nat.": "191",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1026685P",
+      "Nom": "BOUSCHBACHER LUCAS",
+      "Club": "1384147",
+      "Ville": "CARPENTRAS",
+      "S1": "504",
+      "S2": "460",
+      "S3": "454",
+      "Moy.": "472"
+    },
+    {
+      "Rang Nat.": "192",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0022060D",
@@ -2259,7 +2519,7 @@
       "Moy.": "472"
     },
     {
-      "Rang Nat.": "173",
+      "Rang Nat.": "193",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0037439V",
@@ -2272,7 +2532,7 @@
       "Moy.": "472"
     },
     {
-      "Rang Nat.": "174",
+      "Rang Nat.": "194",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0011639B",
@@ -2285,7 +2545,7 @@
       "Moy.": "472"
     },
     {
-      "Rang Nat.": "175",
+      "Rang Nat.": "195",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1062942C",
@@ -2298,8 +2558,8 @@
       "Moy.": "472"
     },
     {
-      "Rang Nat.": "176",
-      "Rang Reg.": "12",
+      "Rang Nat.": "196",
+      "Rang Reg.": "13",
       "Rang Dep.": "2",
       "Licence": "0980161T",
       "Nom": "CANTIN LUCAS",
@@ -2311,20 +2571,7 @@
       "Moy.": "471"
     },
     {
-      "Rang Nat.": "177",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0983153V",
-      "Nom": "COLIN-VOSSOT LILIAN",
-      "Club": "0289109",
-      "Ville": "AUXERRE 1ER",
-      "S1": "497",
-      "S2": "445",
-      "S3": "0",
-      "Moy.": "471"
-    },
-    {
-      "Rang Nat.": "178",
+      "Rang Nat.": "197",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1050756K",
@@ -2337,20 +2584,20 @@
       "Moy.": "471"
     },
     {
-      "Rang Nat.": "179",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1021710G",
-      "Nom": "GILLIARD ENZO",
-      "Club": "1166193",
-      "Ville": "PRADES",
-      "S1": "483",
-      "S2": "473",
-      "S3": "456",
+      "Rang Nat.": "198",
+      "Rang Reg.": "14",
+      "Rang Dep.": "3",
+      "Licence": "0026245C",
+      "Nom": "DROUILLAUD QUENTIN",
+      "Club": "0657119",
+      "Ville": "FAREBERSVILLER",
+      "S1": "488",
+      "S2": "464",
+      "S3": "460",
       "Moy.": "470"
     },
     {
-      "Rang Nat.": "180",
+      "Rang Nat.": "199",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0992054V",
@@ -2363,7 +2610,7 @@
       "Moy.": "470"
     },
     {
-      "Rang Nat.": "181",
+      "Rang Nat.": "200",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1071627D",
@@ -2376,7 +2623,7 @@
       "Moy.": "470"
     },
     {
-      "Rang Nat.": "182",
+      "Rang Nat.": "201",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0989739D",
@@ -2389,7 +2636,20 @@
       "Moy.": "470"
     },
     {
-      "Rang Nat.": "183",
+      "Rang Nat.": "202",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1012934S",
+      "Nom": "BAUER MATHIEU",
+      "Club": "1040133",
+      "Ville": "SAINT PIERRE DU MONT",
+      "S1": "482",
+      "S2": "457",
+      "S3": "0",
+      "Moy.": "469"
+    },
+    {
+      "Rang Nat.": "203",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0039891K",
@@ -2402,7 +2662,7 @@
       "Moy.": "469"
     },
     {
-      "Rang Nat.": "184",
+      "Rang Nat.": "204",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1054328U",
@@ -2415,46 +2675,7 @@
       "Moy.": "468"
     },
     {
-      "Rang Nat.": "185",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1008474E",
-      "Nom": "HATEZ ALEXANDRE",
-      "Club": "0895280",
-      "Ville": "ERMONT",
-      "S1": "481",
-      "S2": "456",
-      "S3": "0",
-      "Moy.": "468"
-    },
-    {
-      "Rang Nat.": "186",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1028262G",
-      "Nom": "MEDJDOUB JUBA",
-      "Club": "1033111",
-      "Ville": "MERIGNAC",
-      "S1": "468",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "468"
-    },
-    {
-      "Rang Nat.": "187",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0063584N",
-      "Nom": "KEMPA ARMEL",
-      "Club": "0356102",
-      "Ville": "PLOERMEL",
-      "S1": "468",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "468"
-    },
-    {
-      "Rang Nat.": "188",
+      "Rang Nat.": "205",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0023526X",
@@ -2467,7 +2688,33 @@
       "Moy.": "468"
     },
     {
-      "Rang Nat.": "189",
+      "Rang Nat.": "206",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1028262G",
+      "Nom": "MEDJDOUB JUBA",
+      "Club": "1033111",
+      "Ville": "MERIGNAC",
+      "S1": "468",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "468"
+    },
+    {
+      "Rang Nat.": "207",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0983153V",
+      "Nom": "COLIN-VOSSOT LILIAN",
+      "Club": "0289109",
+      "Ville": "AUXERRE 1ER",
+      "S1": "497",
+      "S2": "461",
+      "S3": "445",
+      "Moy.": "467"
+    },
+    {
+      "Rang Nat.": "208",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0008546P",
@@ -2480,7 +2727,7 @@
       "Moy.": "467"
     },
     {
-      "Rang Nat.": "190",
+      "Rang Nat.": "209",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0028058Y",
@@ -2493,7 +2740,7 @@
       "Moy.": "466"
     },
     {
-      "Rang Nat.": "191",
+      "Rang Nat.": "210",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0021232D",
@@ -2506,7 +2753,7 @@
       "Moy.": "466"
     },
     {
-      "Rang Nat.": "192",
+      "Rang Nat.": "211",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0015205C",
@@ -2519,20 +2766,20 @@
       "Moy.": "466"
     },
     {
-      "Rang Nat.": "193",
+      "Rang Nat.": "212",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0045838Z",
-      "Nom": "DELACHAUME LILIAN",
-      "Club": "1285132",
-      "Ville": "LES SABLES D'OLONNE",
-      "S1": "465",
-      "S2": "0",
-      "S3": "0",
+      "Licence": "0039820H",
+      "Nom": "FERRÉ-JOUFFE YANN",
+      "Club": "0335083",
+      "Ville": "CESSON SEVIGNE",
+      "S1": "487",
+      "S2": "465",
+      "S3": "444",
       "Moy.": "465"
     },
     {
-      "Rang Nat.": "194",
+      "Rang Nat.": "213",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0957596R",
@@ -2545,33 +2792,20 @@
       "Moy.": "465"
     },
     {
-      "Rang Nat.": "195",
+      "Rang Nat.": "214",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0022879U",
-      "Nom": "DEBOEUF TERENCE",
-      "Club": "1079178",
-      "Ville": "MAZIERES EN GATINE",
-      "S1": "495",
-      "S2": "484",
-      "S3": "414",
-      "Moy.": "464"
+      "Licence": "0045838Z",
+      "Nom": "DELACHAUME LILIAN",
+      "Club": "1285132",
+      "Ville": "LES SABLES D'OLONNE",
+      "S1": "465",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "465"
     },
     {
-      "Rang Nat.": "196",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1026685P",
-      "Nom": "BOUSCHBACHER LUCAS",
-      "Club": "1384147",
-      "Ville": "CARPENTRAS",
-      "S1": "504",
-      "S2": "454",
-      "S3": "431",
-      "Moy.": "463"
-    },
-    {
-      "Rang Nat.": "197",
+      "Rang Nat.": "215",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1007265R",
@@ -2584,7 +2818,7 @@
       "Moy.": "463"
     },
     {
-      "Rang Nat.": "198",
+      "Rang Nat.": "216",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0049239W",
@@ -2597,20 +2831,7 @@
       "Moy.": "463"
     },
     {
-      "Rang Nat.": "199",
-      "Rang Reg.": "13",
-      "Rang Dep.": "3",
-      "Licence": "0026245C",
-      "Nom": "DROUILLAUD QUENTIN",
-      "Club": "0657119",
-      "Ville": "FAREBERSVILLER",
-      "S1": "488",
-      "S2": "464",
-      "S3": "435",
-      "Moy.": "462"
-    },
-    {
-      "Rang Nat.": "200",
+      "Rang Nat.": "217",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1003127N",
@@ -2623,7 +2844,7 @@
       "Moy.": "462"
     },
     {
-      "Rang Nat.": "201",
+      "Rang Nat.": "218",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0001720V",
@@ -2636,7 +2857,7 @@
       "Moy.": "462"
     },
     {
-      "Rang Nat.": "202",
+      "Rang Nat.": "219",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0025556D",
@@ -2649,7 +2870,7 @@
       "Moy.": "462"
     },
     {
-      "Rang Nat.": "203",
+      "Rang Nat.": "220",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0014555W",
@@ -2662,33 +2883,46 @@
       "Moy.": "461"
     },
     {
-      "Rang Nat.": "204",
+      "Rang Nat.": "221",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0964283J",
-      "Nom": "GONDY ALEC",
-      "Club": "0289109",
-      "Ville": "AUXERRE 1ER",
-      "S1": "476",
-      "S2": "447",
-      "S3": "0",
-      "Moy.": "461"
+      "Licence": "1035493J",
+      "Nom": "CHAMBRES THÉO",
+      "Club": "1033100",
+      "Ville": "AMBARES",
+      "S1": "483",
+      "S2": "459",
+      "S3": "440",
+      "Moy.": "460"
     },
     {
-      "Rang Nat.": "205",
+      "Rang Nat.": "222",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0959233V",
       "Nom": "NAUD-LARCEBAL ESTEBAN",
       "Club": "1244003",
       "Ville": "THOUARE SUR LOIRE",
-      "S1": "499",
-      "S2": "422",
-      "S3": "0",
+      "S1": "502",
+      "S2": "499",
+      "S3": "422",
+      "Moy.": "474"
+    },
+    {
+      "Rang Nat.": "223",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1058407R",
+      "Nom": "FONDIMARE ESTEBAN",
+      "Club": "0976093",
+      "Ville": "SAINT VALERY EN CAUX",
+      "S1": "474",
+      "S2": "471",
+      "S3": "436",
       "Moy.": "460"
     },
     {
-      "Rang Nat.": "206",
+      "Rang Nat.": "224",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0044225W",
@@ -2701,7 +2935,7 @@
       "Moy.": "460"
     },
     {
-      "Rang Nat.": "207",
+      "Rang Nat.": "225",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0000385U",
@@ -2714,7 +2948,20 @@
       "Moy.": "460"
     },
     {
-      "Rang Nat.": "208",
+      "Rang Nat.": "226",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0989616V",
+      "Nom": "LEGER WILLIAM",
+      "Club": "0891175",
+      "Ville": "DRAVEIL SENART",
+      "S1": "488",
+      "S2": "451",
+      "S3": "440",
+      "Moy.": "459"
+    },
+    {
+      "Rang Nat.": "227",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1007838S",
@@ -2727,7 +2974,7 @@
       "Moy.": "459"
     },
     {
-      "Rang Nat.": "209",
+      "Rang Nat.": "228",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0005883V",
@@ -2740,33 +2987,7 @@
       "Moy.": "459"
     },
     {
-      "Rang Nat.": "210",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1008045R",
-      "Nom": "DOS SANTOS ANGELO",
-      "Club": "0877043",
-      "Ville": "CHAUMES EN BRIE",
-      "S1": "459",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "459"
-    },
-    {
-      "Rang Nat.": "211",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0055989H",
-      "Nom": "DUPONT-MARROT NOLAN",
-      "Club": "0329029",
-      "Ville": "GUILERS",
-      "S1": "459",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "459"
-    },
-    {
-      "Rang Nat.": "212",
+      "Rang Nat.": "229",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0990274K",
@@ -2779,7 +3000,46 @@
       "Moy.": "459"
     },
     {
-      "Rang Nat.": "213",
+      "Rang Nat.": "230",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1008045R",
+      "Nom": "DOS SANTOS ANGELO",
+      "Club": "0877043",
+      "Ville": "CHAUMES EN BRIE",
+      "S1": "459",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "459"
+    },
+    {
+      "Rang Nat.": "231",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0055989H",
+      "Nom": "DUPONT-MARROT NOLAN",
+      "Club": "0329029",
+      "Ville": "GUILERS",
+      "S1": "459",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "459"
+    },
+    {
+      "Rang Nat.": "232",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0964283J",
+      "Nom": "GONDY ALEC",
+      "Club": "0289109",
+      "Ville": "AUXERRE 1ER",
+      "S1": "476",
+      "S2": "453",
+      "S3": "447",
+      "Moy.": "458"
+    },
+    {
+      "Rang Nat.": "233",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0018567G",
@@ -2792,7 +3052,7 @@
       "Moy.": "458"
     },
     {
-      "Rang Nat.": "214",
+      "Rang Nat.": "234",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0008976G",
@@ -2805,7 +3065,7 @@
       "Moy.": "458"
     },
     {
-      "Rang Nat.": "215",
+      "Rang Nat.": "235",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0010309F",
@@ -2818,7 +3078,7 @@
       "Moy.": "458"
     },
     {
-      "Rang Nat.": "216",
+      "Rang Nat.": "236",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0961035D",
@@ -2831,20 +3091,7 @@
       "Moy.": "458"
     },
     {
-      "Rang Nat.": "217",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0057009S",
-      "Nom": "BEAUDET THEOPHILE",
-      "Club": "0895289",
-      "Ville": "PONTOISE",
-      "S1": "458",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "458"
-    },
-    {
-      "Rang Nat.": "218",
+      "Rang Nat.": "237",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0000668B",
@@ -2857,7 +3104,7 @@
       "Moy.": "458"
     },
     {
-      "Rang Nat.": "219",
+      "Rang Nat.": "238",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1044340Q",
@@ -2870,33 +3117,20 @@
       "Moy.": "457"
     },
     {
-      "Rang Nat.": "220",
+      "Rang Nat.": "239",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0042200V",
-      "Nom": "PAIELLA PIERRE",
-      "Club": "0895274",
-      "Ville": "SANNOIS",
-      "S1": "471",
-      "S2": "463",
-      "S3": "438",
-      "Moy.": "457"
-    },
-    {
-      "Rang Nat.": "221",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1012934S",
-      "Nom": "BAUER MATHIEU",
-      "Club": "1040133",
-      "Ville": "SAINT PIERRE DU MONT",
+      "Licence": "0016654C",
+      "Nom": "CHAUVET VIENNE MALO",
+      "Club": "0163157",
+      "Ville": "RIOM",
       "S1": "457",
       "S2": "0",
       "S3": "0",
       "Moy.": "457"
     },
     {
-      "Rang Nat.": "222",
+      "Rang Nat.": "240",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0984109J",
@@ -2909,7 +3143,7 @@
       "Moy.": "456"
     },
     {
-      "Rang Nat.": "223",
+      "Rang Nat.": "241",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0047262X",
@@ -2922,34 +3156,8 @@
       "Moy.": "456"
     },
     {
-      "Rang Nat.": "224",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0971221A",
-      "Nom": "BOURGEOIS ANTOINE",
-      "Club": "1033113",
-      "Ville": "SAINT MEDARD EN JALLES",
-      "S1": "456",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "456"
-    },
-    {
-      "Rang Nat.": "225",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1058407R",
-      "Nom": "FONDIMARE ESTEBAN",
-      "Club": "0976093",
-      "Ville": "SAINT VALERY EN CAUX",
-      "S1": "474",
-      "S2": "436",
-      "S3": "0",
-      "Moy.": "455"
-    },
-    {
-      "Rang Nat.": "226",
-      "Rang Reg.": "14",
+      "Rang Nat.": "242",
+      "Rang Reg.": "15",
       "Rang Dep.": "",
       "Licence": "0024186P",
       "Nom": "MYAUX ESTEBAN",
@@ -2961,7 +3169,7 @@
       "Moy.": "455"
     },
     {
-      "Rang Nat.": "227",
+      "Rang Nat.": "243",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1000358A",
@@ -2974,7 +3182,7 @@
       "Moy.": "455"
     },
     {
-      "Rang Nat.": "228",
+      "Rang Nat.": "244",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1014793F",
@@ -2987,7 +3195,7 @@
       "Moy.": "455"
     },
     {
-      "Rang Nat.": "229",
+      "Rang Nat.": "245",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1046362K",
@@ -3000,8 +3208,8 @@
       "Moy.": "454"
     },
     {
-      "Rang Nat.": "230",
-      "Rang Reg.": "15",
+      "Rang Nat.": "246",
+      "Rang Reg.": "16",
       "Rang Dep.": "",
       "Licence": "1047209Z",
       "Nom": "GELSUMINI LUCAS",
@@ -3013,7 +3221,20 @@
       "Moy.": "454"
     },
     {
-      "Rang Nat.": "231",
+      "Rang Nat.": "247",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0971221A",
+      "Nom": "BOURGEOIS ANTOINE",
+      "Club": "1033113",
+      "Ville": "SAINT MEDARD EN JALLES",
+      "S1": "456",
+      "S2": "452",
+      "S3": "0",
+      "Moy.": "454"
+    },
+    {
+      "Rang Nat.": "248",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0980993X",
@@ -3026,7 +3247,33 @@
       "Moy.": "454"
     },
     {
-      "Rang Nat.": "232",
+      "Rang Nat.": "249",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0006959P",
+      "Nom": "DOISY ARTHUR",
+      "Club": "0760148",
+      "Ville": "IVORS",
+      "S1": "455",
+      "S2": "455",
+      "S3": "451",
+      "Moy.": "453"
+    },
+    {
+      "Rang Nat.": "250",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1008474E",
+      "Nom": "HATEZ ALEXANDRE",
+      "Club": "0895280",
+      "Ville": "ERMONT",
+      "S1": "481",
+      "S2": "456",
+      "S3": "422",
+      "Moy.": "453"
+    },
+    {
+      "Rang Nat.": "251",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0004057K",
@@ -3039,7 +3286,7 @@
       "Moy.": "453"
     },
     {
-      "Rang Nat.": "233",
+      "Rang Nat.": "252",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1042483F",
@@ -3052,7 +3299,7 @@
       "Moy.": "453"
     },
     {
-      "Rang Nat.": "234",
+      "Rang Nat.": "253",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0027398F",
@@ -3065,7 +3312,7 @@
       "Moy.": "452"
     },
     {
-      "Rang Nat.": "235",
+      "Rang Nat.": "254",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0951952F",
@@ -3078,7 +3325,7 @@
       "Moy.": "452"
     },
     {
-      "Rang Nat.": "236",
+      "Rang Nat.": "255",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1054348O",
@@ -3091,7 +3338,7 @@
       "Moy.": "452"
     },
     {
-      "Rang Nat.": "237",
+      "Rang Nat.": "256",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0980239C",
@@ -3104,7 +3351,33 @@
       "Moy.": "452"
     },
     {
-      "Rang Nat.": "238",
+      "Rang Nat.": "257",
+      "Rang Reg.": "17",
+      "Rang Dep.": "",
+      "Licence": "1024508W",
+      "Nom": "BONNETERRE CAMILLE",
+      "Club": "0610011",
+      "Ville": "VENDEUVRE SUR BARSE",
+      "S1": "471",
+      "S2": "444",
+      "S3": "441",
+      "Moy.": "452"
+    },
+    {
+      "Rang Nat.": "258",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1045137H",
+      "Nom": "MAILLES NOLHAN",
+      "Club": "1132241",
+      "Ville": "LABEJAN",
+      "S1": "452",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "452"
+    },
+    {
+      "Rang Nat.": "259",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1034644S",
@@ -3117,20 +3390,20 @@
       "Moy.": "452"
     },
     {
-      "Rang Nat.": "239",
+      "Rang Nat.": "260",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0029512D",
-      "Nom": "DEVAUX MATHIEU",
-      "Club": "1033078",
-      "Ville": "LE BOUSCAT",
-      "S1": "452",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "452"
+      "Licence": "0002374F",
+      "Nom": "GERALD PAUL",
+      "Club": "0976124",
+      "Ville": "ARC ROUEN CLUB",
+      "S1": "461",
+      "S2": "453",
+      "S3": "441",
+      "Moy.": "451"
     },
     {
-      "Rang Nat.": "240",
+      "Rang Nat.": "261",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1043291H",
@@ -3143,7 +3416,7 @@
       "Moy.": "451"
     },
     {
-      "Rang Nat.": "241",
+      "Rang Nat.": "262",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1062702W",
@@ -3156,7 +3429,7 @@
       "Moy.": "451"
     },
     {
-      "Rang Nat.": "242",
+      "Rang Nat.": "263",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0005423V",
@@ -3169,7 +3442,7 @@
       "Moy.": "450"
     },
     {
-      "Rang Nat.": "243",
+      "Rang Nat.": "264",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0016693V",
@@ -3182,8 +3455,8 @@
       "Moy.": "449"
     },
     {
-      "Rang Nat.": "244",
-      "Rang Reg.": "16",
+      "Rang Nat.": "265",
+      "Rang Reg.": "18",
       "Rang Dep.": "",
       "Licence": "1025376G",
       "Nom": "BRASSEUR YANNIS",
@@ -3195,7 +3468,7 @@
       "Moy.": "449"
     },
     {
-      "Rang Nat.": "245",
+      "Rang Nat.": "266",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0010889L",
@@ -3208,7 +3481,7 @@
       "Moy.": "449"
     },
     {
-      "Rang Nat.": "246",
+      "Rang Nat.": "267",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1031561D",
@@ -3221,7 +3494,7 @@
       "Moy.": "449"
     },
     {
-      "Rang Nat.": "247",
+      "Rang Nat.": "268",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1020959J",
@@ -3234,20 +3507,7 @@
       "Moy.": "447"
     },
     {
-      "Rang Nat.": "248",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1017387Z",
-      "Nom": "BONNAT THEO",
-      "Club": "0138116",
-      "Ville": "CHARAVINES",
-      "S1": "447",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "447"
-    },
-    {
-      "Rang Nat.": "249",
+      "Rang Nat.": "269",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0029148H",
@@ -3260,8 +3520,8 @@
       "Moy.": "447"
     },
     {
-      "Rang Nat.": "250",
-      "Rang Reg.": "17",
+      "Rang Nat.": "270",
+      "Rang Reg.": "19",
       "Rang Dep.": "",
       "Licence": "0993822S",
       "Nom": "ZULIANI THOMAS",
@@ -3273,8 +3533,21 @@
       "Moy.": "447"
     },
     {
-      "Rang Nat.": "251",
-      "Rang Reg.": "18",
+      "Rang Nat.": "271",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1017387Z",
+      "Nom": "BONNAT THEO",
+      "Club": "0138116",
+      "Ville": "CHARAVINES",
+      "S1": "447",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "447"
+    },
+    {
+      "Rang Nat.": "272",
+      "Rang Reg.": "20",
       "Rang Dep.": "",
       "Licence": "0019132W",
       "Nom": "CARUSO TIMÉO",
@@ -3286,7 +3559,7 @@
       "Moy.": "446"
     },
     {
-      "Rang Nat.": "252",
+      "Rang Nat.": "273",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0036309S",
@@ -3299,7 +3572,7 @@
       "Moy.": "446"
     },
     {
-      "Rang Nat.": "253",
+      "Rang Nat.": "274",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0983858L",
@@ -3312,7 +3585,7 @@
       "Moy.": "446"
     },
     {
-      "Rang Nat.": "254",
+      "Rang Nat.": "275",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0016549N",
@@ -3325,7 +3598,7 @@
       "Moy.": "445"
     },
     {
-      "Rang Nat.": "255",
+      "Rang Nat.": "276",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1003785V",
@@ -3338,7 +3611,7 @@
       "Moy.": "445"
     },
     {
-      "Rang Nat.": "256",
+      "Rang Nat.": "277",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0996658Z",
@@ -3351,46 +3624,46 @@
       "Moy.": "445"
     },
     {
-      "Rang Nat.": "257",
+      "Rang Nat.": "278",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0019648G",
-      "Nom": "MENDYCK TIM",
-      "Club": "0221017",
-      "Ville": "SAINT APOLLINAIRE",
-      "S1": "445",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "445"
+      "Licence": "0016161S",
+      "Nom": "MARINHO DALESME ANTHONY",
+      "Club": "0163154",
+      "Ville": "CHAMALIERES",
+      "S1": "468",
+      "S2": "453",
+      "S3": "410",
+      "Moy.": "443"
     },
     {
-      "Rang Nat.": "258",
+      "Rang Nat.": "279",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0049504J",
       "Nom": "BELALA LOUKA",
       "Club": "1244025",
       "Ville": "COUERON",
-      "S1": "450",
-      "S2": "437",
+      "S1": "453",
+      "S2": "450",
+      "S3": "437",
+      "Moy.": "446"
+    },
+    {
+      "Rang Nat.": "280",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0961834X",
+      "Nom": "MARTINEZ ELOAN",
+      "Club": "1148164",
+      "Ville": "CHANAC",
+      "S1": "454",
+      "S2": "432",
       "S3": "0",
       "Moy.": "443"
     },
     {
-      "Rang Nat.": "259",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0002374F",
-      "Nom": "GERALD PAUL",
-      "Club": "0976124",
-      "Ville": "ARC ROUEN CLUB",
-      "S1": "461",
-      "S2": "441",
-      "S3": "428",
-      "Moy.": "443"
-    },
-    {
-      "Rang Nat.": "260",
+      "Rang Nat.": "281",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1059976A",
@@ -3403,7 +3676,7 @@
       "Moy.": "443"
     },
     {
-      "Rang Nat.": "261",
+      "Rang Nat.": "282",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0042662X",
@@ -3416,7 +3689,7 @@
       "Moy.": "443"
     },
     {
-      "Rang Nat.": "262",
+      "Rang Nat.": "283",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0006004B",
@@ -3429,7 +3702,7 @@
       "Moy.": "442"
     },
     {
-      "Rang Nat.": "263",
+      "Rang Nat.": "284",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1018321X",
@@ -3442,7 +3715,7 @@
       "Moy.": "442"
     },
     {
-      "Rang Nat.": "264",
+      "Rang Nat.": "285",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1001571R",
@@ -3455,7 +3728,7 @@
       "Moy.": "441"
     },
     {
-      "Rang Nat.": "265",
+      "Rang Nat.": "286",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0001312B",
@@ -3468,33 +3741,7 @@
       "Moy.": "441"
     },
     {
-      "Rang Nat.": "266",
-      "Rang Reg.": "19",
-      "Rang Dep.": "",
-      "Licence": "1024508W",
-      "Nom": "BONNETERRE CAMILLE",
-      "Club": "0610011",
-      "Ville": "VENDEUVRE SUR BARSE",
-      "S1": "471",
-      "S2": "441",
-      "S3": "408",
-      "Moy.": "440"
-    },
-    {
-      "Rang Nat.": "267",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1035493J",
-      "Nom": "CHAMBRES THÉO",
-      "Club": "1033100",
-      "Ville": "AMBARES",
-      "S1": "440",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "440"
-    },
-    {
-      "Rang Nat.": "268",
+      "Rang Nat.": "287",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0044787G",
@@ -3507,7 +3754,7 @@
       "Moy.": "439"
     },
     {
-      "Rang Nat.": "269",
+      "Rang Nat.": "288",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1005159R",
@@ -3520,7 +3767,7 @@
       "Moy.": "439"
     },
     {
-      "Rang Nat.": "270",
+      "Rang Nat.": "289",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0986847K",
@@ -3533,7 +3780,20 @@
       "Moy.": "439"
     },
     {
-      "Rang Nat.": "271",
+      "Rang Nat.": "290",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1001202M",
+      "Nom": "CORTET ALEXANDRE",
+      "Club": "0895282",
+      "Ville": "MARLY LA VILLE",
+      "S1": "468",
+      "S2": "448",
+      "S3": "402",
+      "Moy.": "439"
+    },
+    {
+      "Rang Nat.": "291",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0986743X",
@@ -3546,20 +3806,7 @@
       "Moy.": "439"
     },
     {
-      "Rang Nat.": "272",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0016161S",
-      "Nom": "MARINHO DALESME ANTHONY",
-      "Club": "0163154",
-      "Ville": "CHAMALIERES",
-      "S1": "468",
-      "S2": "410",
-      "S3": "0",
-      "Moy.": "439"
-    },
-    {
-      "Rang Nat.": "273",
+      "Rang Nat.": "292",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1006526G",
@@ -3572,7 +3819,7 @@
       "Moy.": "438"
     },
     {
-      "Rang Nat.": "274",
+      "Rang Nat.": "293",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1012725R",
@@ -3585,7 +3832,7 @@
       "Moy.": "438"
     },
     {
-      "Rang Nat.": "275",
+      "Rang Nat.": "294",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0003217X",
@@ -3598,7 +3845,20 @@
       "Moy.": "437"
     },
     {
-      "Rang Nat.": "276",
+      "Rang Nat.": "295",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0038488K",
+      "Nom": "FAUCHER ABIGAËL",
+      "Club": "0163154",
+      "Ville": "CHAMALIERES",
+      "S1": "468",
+      "S2": "405",
+      "S3": "0",
+      "Moy.": "436"
+    },
+    {
+      "Rang Nat.": "296",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0044140D",
@@ -3611,7 +3871,7 @@
       "Moy.": "436"
     },
     {
-      "Rang Nat.": "277",
+      "Rang Nat.": "297",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0979978U",
@@ -3624,20 +3884,7 @@
       "Moy.": "435"
     },
     {
-      "Rang Nat.": "278",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1001202M",
-      "Nom": "CORTET ALEXANDRE",
-      "Club": "0895282",
-      "Ville": "MARLY LA VILLE",
-      "S1": "468",
-      "S2": "402",
-      "S3": "0",
-      "Moy.": "435"
-    },
-    {
-      "Rang Nat.": "279",
+      "Rang Nat.": "298",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0022763T",
@@ -3650,7 +3897,7 @@
       "Moy.": "435"
     },
     {
-      "Rang Nat.": "280",
+      "Rang Nat.": "299",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1078445J",
@@ -3663,7 +3910,7 @@
       "Moy.": "435"
     },
     {
-      "Rang Nat.": "281",
+      "Rang Nat.": "300",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0041427E",
@@ -3676,7 +3923,7 @@
       "Moy.": "435"
     },
     {
-      "Rang Nat.": "282",
+      "Rang Nat.": "301",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0046452S",
@@ -3689,20 +3936,7 @@
       "Moy.": "434"
     },
     {
-      "Rang Nat.": "283",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1006800U",
-      "Nom": "MAYER SACHA",
-      "Club": "0445119",
-      "Ville": "INGRE",
-      "S1": "434",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "434"
-    },
-    {
-      "Rang Nat.": "284",
+      "Rang Nat.": "302",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0047106C",
@@ -3715,7 +3949,20 @@
       "Moy.": "434"
     },
     {
-      "Rang Nat.": "285",
+      "Rang Nat.": "303",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1006800U",
+      "Nom": "MAYER SACHA",
+      "Club": "0445119",
+      "Ville": "INGRE",
+      "S1": "434",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "434"
+    },
+    {
+      "Rang Nat.": "304",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1033194Y",
@@ -3728,20 +3975,7 @@
       "Moy.": "433"
     },
     {
-      "Rang Nat.": "286",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0961834X",
-      "Nom": "MARTINEZ ELOAN",
-      "Club": "1148164",
-      "Ville": "CHANAC",
-      "S1": "432",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "432"
-    },
-    {
-      "Rang Nat.": "287",
+      "Rang Nat.": "305",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1061726I",
@@ -3754,7 +3988,7 @@
       "Moy.": "432"
     },
     {
-      "Rang Nat.": "288",
+      "Rang Nat.": "306",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0063024E",
@@ -3767,7 +4001,20 @@
       "Moy.": "431"
     },
     {
-      "Rang Nat.": "289",
+      "Rang Nat.": "307",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0058111P",
+      "Nom": "RENIER BENJAMIN",
+      "Club": "0895277",
+      "Ville": "MERY MERIEL",
+      "S1": "446",
+      "S2": "416",
+      "S3": "0",
+      "Moy.": "431"
+    },
+    {
+      "Rang Nat.": "308",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1072442M",
@@ -3780,7 +4027,7 @@
       "Moy.": "431"
     },
     {
-      "Rang Nat.": "290",
+      "Rang Nat.": "309",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1011315L",
@@ -3793,8 +4040,8 @@
       "Moy.": "431"
     },
     {
-      "Rang Nat.": "291",
-      "Rang Reg.": "20",
+      "Rang Nat.": "310",
+      "Rang Reg.": "21",
       "Rang Dep.": "4",
       "Licence": "0935691F",
       "Nom": "KANY HUGO",
@@ -3806,7 +4053,20 @@
       "Moy.": "430"
     },
     {
-      "Rang Nat.": "292",
+      "Rang Nat.": "311",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0003297J",
+      "Nom": "SAVARIC TOM",
+      "Club": "0115056",
+      "Ville": "AURILLAC STADE",
+      "S1": "450",
+      "S2": "433",
+      "S3": "405",
+      "Moy.": "429"
+    },
+    {
+      "Rang Nat.": "312",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0009487M",
@@ -3819,7 +4079,7 @@
       "Moy.": "429"
     },
     {
-      "Rang Nat.": "293",
+      "Rang Nat.": "313",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0004807A",
@@ -3832,8 +4092,8 @@
       "Moy.": "429"
     },
     {
-      "Rang Nat.": "294",
-      "Rang Reg.": "21",
+      "Rang Nat.": "314",
+      "Rang Reg.": "22",
       "Rang Dep.": "",
       "Licence": "1004445F",
       "Nom": "CARRÉE LOUIS",
@@ -3845,46 +4105,7 @@
       "Moy.": "428"
     },
     {
-      "Rang Nat.": "295",
-      "Rang Reg.": "22",
-      "Rang Dep.": "5",
-      "Licence": "0980149E",
-      "Nom": "VILLERMIN MAXIME",
-      "Club": "0657131",
-      "Ville": "SARREBOURG",
-      "S1": "428",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "428"
-    },
-    {
-      "Rang Nat.": "296",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0030002L",
-      "Nom": "PROCHET AUGUSTIN",
-      "Club": "0760204",
-      "Ville": "CUISE LA MOTTE",
-      "S1": "428",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "428"
-    },
-    {
-      "Rang Nat.": "297",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1035066Y",
-      "Nom": "FRAYSSE JEAN",
-      "Club": "1131093",
-      "Ville": "BALMA",
-      "S1": "428",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "428"
-    },
-    {
-      "Rang Nat.": "298",
+      "Rang Nat.": "315",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0055353S",
@@ -3897,7 +4118,59 @@
       "Moy.": "428"
     },
     {
-      "Rang Nat.": "299",
+      "Rang Nat.": "316",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0030002L",
+      "Nom": "PROCHET AUGUSTIN",
+      "Club": "0760204",
+      "Ville": "CUISE LA MOTTE",
+      "S1": "428",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "428"
+    },
+    {
+      "Rang Nat.": "317",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1035066Y",
+      "Nom": "FRAYSSE JEAN",
+      "Club": "1131093",
+      "Ville": "BALMA",
+      "S1": "428",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "428"
+    },
+    {
+      "Rang Nat.": "318",
+      "Rang Reg.": "23",
+      "Rang Dep.": "5",
+      "Licence": "0980149E",
+      "Nom": "VILLERMIN MAXIME",
+      "Club": "0657131",
+      "Ville": "SARREBOURG",
+      "S1": "428",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "428"
+    },
+    {
+      "Rang Nat.": "319",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0012692W",
+      "Nom": "MEZIERES LUCAS",
+      "Club": "0961081",
+      "Ville": "BANVOU",
+      "S1": "442",
+      "S2": "437",
+      "S3": "404",
+      "Moy.": "427"
+    },
+    {
+      "Rang Nat.": "320",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0948650S",
@@ -3910,7 +4183,7 @@
       "Moy.": "427"
     },
     {
-      "Rang Nat.": "300",
+      "Rang Nat.": "321",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0005755F",
@@ -3923,7 +4196,7 @@
       "Moy.": "427"
     },
     {
-      "Rang Nat.": "301",
+      "Rang Nat.": "322",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1010667N",
@@ -3936,7 +4209,7 @@
       "Moy.": "426"
     },
     {
-      "Rang Nat.": "302",
+      "Rang Nat.": "323",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1002741R",
@@ -3949,21 +4222,8 @@
       "Moy.": "426"
     },
     {
-      "Rang Nat.": "303",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0005627S",
-      "Nom": "HELLEQUIN CAYRE ANTOINE",
-      "Club": "1040124",
-      "Ville": "DAX",
-      "S1": "426",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "426"
-    },
-    {
-      "Rang Nat.": "304",
-      "Rang Reg.": "23",
+      "Rang Nat.": "324",
+      "Rang Reg.": "24",
       "Rang Dep.": "",
       "Licence": "0028584V",
       "Nom": "SCHILDKNECHT RUBEN",
@@ -3975,7 +4235,20 @@
       "Moy.": "425"
     },
     {
-      "Rang Nat.": "305",
+      "Rang Nat.": "325",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0019648G",
+      "Nom": "MENDYCK TIM",
+      "Club": "0221017",
+      "Ville": "SAINT APOLLINAIRE",
+      "S1": "445",
+      "S2": "405",
+      "S3": "0",
+      "Moy.": "425"
+    },
+    {
+      "Rang Nat.": "326",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0016359G",
@@ -3988,7 +4261,7 @@
       "Moy.": "425"
     },
     {
-      "Rang Nat.": "306",
+      "Rang Nat.": "327",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1001716G",
@@ -4001,7 +4274,7 @@
       "Moy.": "425"
     },
     {
-      "Rang Nat.": "307",
+      "Rang Nat.": "328",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1028459V",
@@ -4014,20 +4287,7 @@
       "Moy.": "425"
     },
     {
-      "Rang Nat.": "308",
-      "Rang Reg.": "24",
-      "Rang Dep.": "",
-      "Licence": "0048745J",
-      "Nom": "CHAKAI FRANCOIS",
-      "Club": "0654066",
-      "Ville": "FROUARD",
-      "S1": "424",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "424"
-    },
-    {
-      "Rang Nat.": "309",
+      "Rang Nat.": "329",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1043758G",
@@ -4040,7 +4300,20 @@
       "Moy.": "424"
     },
     {
-      "Rang Nat.": "310",
+      "Rang Nat.": "330",
+      "Rang Reg.": "25",
+      "Rang Dep.": "",
+      "Licence": "0048745J",
+      "Nom": "CHAKAI FRANCOIS",
+      "Club": "0654066",
+      "Ville": "FROUARD",
+      "S1": "424",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "424"
+    },
+    {
+      "Rang Nat.": "331",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0034557M",
@@ -4053,7 +4326,7 @@
       "Moy.": "423"
     },
     {
-      "Rang Nat.": "311",
+      "Rang Nat.": "332",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1009750G",
@@ -4066,7 +4339,7 @@
       "Moy.": "423"
     },
     {
-      "Rang Nat.": "312",
+      "Rang Nat.": "333",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0003936D",
@@ -4079,8 +4352,8 @@
       "Moy.": "422"
     },
     {
-      "Rang Nat.": "313",
-      "Rang Reg.": "25",
+      "Rang Nat.": "334",
+      "Rang Reg.": "26",
       "Rang Dep.": "",
       "Licence": "0030817X",
       "Nom": "REISS--BOSSI GUILLAUME",
@@ -4092,20 +4365,7 @@
       "Moy.": "422"
     },
     {
-      "Rang Nat.": "314",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0006959P",
-      "Nom": "DOISY ARTHUR",
-      "Club": "0760148",
-      "Ville": "IVORS",
-      "S1": "455",
-      "S2": "451",
-      "S3": "355",
-      "Moy.": "420"
-    },
-    {
-      "Rang Nat.": "315",
+      "Rang Nat.": "335",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0049230L",
@@ -4118,7 +4378,7 @@
       "Moy.": "420"
     },
     {
-      "Rang Nat.": "316",
+      "Rang Nat.": "336",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0063470P",
@@ -4131,7 +4391,7 @@
       "Moy.": "419"
     },
     {
-      "Rang Nat.": "317",
+      "Rang Nat.": "337",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1005968U",
@@ -4144,7 +4404,7 @@
       "Moy.": "419"
     },
     {
-      "Rang Nat.": "318",
+      "Rang Nat.": "338",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0978967V",
@@ -4157,7 +4417,7 @@
       "Moy.": "419"
     },
     {
-      "Rang Nat.": "319",
+      "Rang Nat.": "339",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1008656E",
@@ -4170,7 +4430,7 @@
       "Moy.": "419"
     },
     {
-      "Rang Nat.": "320",
+      "Rang Nat.": "340",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1028205B",
@@ -4183,7 +4443,7 @@
       "Moy.": "418"
     },
     {
-      "Rang Nat.": "321",
+      "Rang Nat.": "341",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0046848X",
@@ -4196,46 +4456,20 @@
       "Moy.": "418"
     },
     {
-      "Rang Nat.": "322",
+      "Rang Nat.": "342",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1002462Y",
       "Nom": "DUPONT SALMON MATTÉO",
       "Club": "0760214",
       "Ville": "ESTREES ST DENIS",
-      "S1": "417",
-      "S2": "0",
+      "S1": "457",
+      "S2": "417",
       "S3": "0",
-      "Moy.": "417"
+      "Moy.": "437"
     },
     {
-      "Rang Nat.": "323",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0058111P",
-      "Nom": "RENIER BENJAMIN",
-      "Club": "0895277",
-      "Ville": "MERY MERIEL",
-      "S1": "416",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "416"
-    },
-    {
-      "Rang Nat.": "324",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0031134S",
-      "Nom": "BRICKA TIMEO",
-      "Club": "1130232",
-      "Ville": "ST GENIES",
-      "S1": "415",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "415"
-    },
-    {
-      "Rang Nat.": "325",
+      "Rang Nat.": "343",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0004403L",
@@ -4248,7 +4482,20 @@
       "Moy.": "415"
     },
     {
-      "Rang Nat.": "326",
+      "Rang Nat.": "344",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0031134S",
+      "Nom": "BRICKA TIMEO",
+      "Club": "1130232",
+      "Ville": "ST GENIES",
+      "S1": "415",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "415"
+    },
+    {
+      "Rang Nat.": "345",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1002137L",
@@ -4261,7 +4508,7 @@
       "Moy.": "415"
     },
     {
-      "Rang Nat.": "327",
+      "Rang Nat.": "346",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1026306A",
@@ -4274,20 +4521,20 @@
       "Moy.": "415"
     },
     {
-      "Rang Nat.": "328",
+      "Rang Nat.": "347",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0055248C",
       "Nom": "LEVASSEUR ARTHUR",
       "Club": "1134119",
       "Ville": "BEZIERS",
-      "S1": "421",
-      "S2": "408",
-      "S3": "0",
-      "Moy.": "414"
+      "S1": "491",
+      "S2": "421",
+      "S3": "408",
+      "Moy.": "440"
     },
     {
-      "Rang Nat.": "329",
+      "Rang Nat.": "348",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1056158E",
@@ -4300,7 +4547,7 @@
       "Moy.": "414"
     },
     {
-      "Rang Nat.": "330",
+      "Rang Nat.": "349",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1025485L",
@@ -4313,7 +4560,7 @@
       "Moy.": "414"
     },
     {
-      "Rang Nat.": "331",
+      "Rang Nat.": "350",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0020012C",
@@ -4326,7 +4573,7 @@
       "Moy.": "412"
     },
     {
-      "Rang Nat.": "332",
+      "Rang Nat.": "351",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1057792A",
@@ -4339,7 +4586,7 @@
       "Moy.": "412"
     },
     {
-      "Rang Nat.": "333",
+      "Rang Nat.": "352",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0007017C",
@@ -4352,7 +4599,7 @@
       "Moy.": "412"
     },
     {
-      "Rang Nat.": "334",
+      "Rang Nat.": "353",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1045251R",
@@ -4365,7 +4612,20 @@
       "Moy.": "412"
     },
     {
-      "Rang Nat.": "335",
+      "Rang Nat.": "354",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1006387X",
+      "Nom": "RAIMONDO SAMUEL",
+      "Club": "1313066",
+      "Ville": "GEMENOS",
+      "S1": "411",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "411"
+    },
+    {
+      "Rang Nat.": "355",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0039330A",
@@ -4378,7 +4638,7 @@
       "Moy.": "411"
     },
     {
-      "Rang Nat.": "336",
+      "Rang Nat.": "356",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0049501F",
@@ -4386,12 +4646,12 @@
       "Club": "1244025",
       "Ville": "COUERON",
       "S1": "411",
-      "S2": "0",
+      "S2": "402",
       "S3": "0",
-      "Moy.": "411"
+      "Moy.": "406"
     },
     {
-      "Rang Nat.": "337",
+      "Rang Nat.": "357",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0031382L",
@@ -4404,7 +4664,7 @@
       "Moy.": "410"
     },
     {
-      "Rang Nat.": "338",
+      "Rang Nat.": "358",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0997282C",
@@ -4417,7 +4677,7 @@
       "Moy.": "410"
     },
     {
-      "Rang Nat.": "339",
+      "Rang Nat.": "359",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0053244Z",
@@ -4430,7 +4690,20 @@
       "Moy.": "409"
     },
     {
-      "Rang Nat.": "340",
+      "Rang Nat.": "360",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0063584N",
+      "Nom": "KEMPA ARMEL",
+      "Club": "0356102",
+      "Ville": "PLOERMEL",
+      "S1": "468",
+      "S2": "351",
+      "S3": "0",
+      "Moy.": "409"
+    },
+    {
+      "Rang Nat.": "361",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1052948S",
@@ -4443,7 +4716,20 @@
       "Moy.": "409"
     },
     {
-      "Rang Nat.": "341",
+      "Rang Nat.": "362",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0984442W",
+      "Nom": "CHAPON MATTEO",
+      "Club": "0335084",
+      "Ville": "LAILLE",
+      "S1": "409",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "409"
+    },
+    {
+      "Rang Nat.": "363",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1036242E",
@@ -4456,7 +4742,20 @@
       "Moy.": "409"
     },
     {
-      "Rang Nat.": "342",
+      "Rang Nat.": "364",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0992094N",
+      "Nom": "GOURLIN CLEMENT",
+      "Club": "0289126",
+      "Ville": "LES ARCHERS MALAYSIENS",
+      "S1": "421",
+      "S2": "396",
+      "S3": "0",
+      "Moy.": "408"
+    },
+    {
+      "Rang Nat.": "365",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0020419V",
@@ -4469,7 +4768,7 @@
       "Moy.": "408"
     },
     {
-      "Rang Nat.": "343",
+      "Rang Nat.": "366",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0016239B",
@@ -4482,20 +4781,7 @@
       "Moy.": "408"
     },
     {
-      "Rang Nat.": "344",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0003297J",
-      "Nom": "SAVARIC TOM",
-      "Club": "0115056",
-      "Ville": "AURILLAC STADE",
-      "S1": "433",
-      "S2": "405",
-      "S3": "384",
-      "Moy.": "407"
-    },
-    {
-      "Rang Nat.": "345",
+      "Rang Nat.": "367",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1046981F",
@@ -4508,7 +4794,7 @@
       "Moy.": "406"
     },
     {
-      "Rang Nat.": "346",
+      "Rang Nat.": "368",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1010126S",
@@ -4521,46 +4807,7 @@
       "Moy.": "406"
     },
     {
-      "Rang Nat.": "347",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0038488K",
-      "Nom": "FAUCHER ABIGAËL",
-      "Club": "0163154",
-      "Ville": "CHAMALIERES",
-      "S1": "405",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "405"
-    },
-    {
-      "Rang Nat.": "348",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1041253X",
-      "Nom": "MOUSSA YANIS",
-      "Club": "0877056",
-      "Ville": "ROISSY EN BRIE",
-      "S1": "405",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "405"
-    },
-    {
-      "Rang Nat.": "349",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0007378V",
-      "Nom": "BARBES-KIENER MATHIAS",
-      "Club": "1313090",
-      "Ville": "ST MARTIN DE CRAU",
-      "S1": "405",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "405"
-    },
-    {
-      "Rang Nat.": "350",
+      "Rang Nat.": "369",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1027144G",
@@ -4573,20 +4820,33 @@
       "Moy.": "405"
     },
     {
-      "Rang Nat.": "351",
+      "Rang Nat.": "370",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0012692W",
-      "Nom": "MEZIERES LUCAS",
-      "Club": "0961081",
-      "Ville": "BANVOU",
-      "S1": "442",
-      "S2": "437",
-      "S3": "333",
-      "Moy.": "404"
+      "Licence": "1041253X",
+      "Nom": "MOUSSA YANIS",
+      "Club": "0877056",
+      "Ville": "ROISSY EN BRIE",
+      "S1": "405",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "405"
     },
     {
-      "Rang Nat.": "352",
+      "Rang Nat.": "371",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0007378V",
+      "Nom": "BARBES-KIENER MATHIAS",
+      "Club": "1313090",
+      "Ville": "ST MARTIN DE CRAU",
+      "S1": "405",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "405"
+    },
+    {
+      "Rang Nat.": "372",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1026890M",
@@ -4599,8 +4859,8 @@
       "Moy.": "404"
     },
     {
-      "Rang Nat.": "353",
-      "Rang Reg.": "26",
+      "Rang Nat.": "373",
+      "Rang Reg.": "27",
       "Rang Dep.": "",
       "Licence": "1033967R",
       "Nom": "DELACOUR AMAURY",
@@ -4612,21 +4872,8 @@
       "Moy.": "404"
     },
     {
-      "Rang Nat.": "354",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0015802B",
-      "Nom": "PERALTA LUCAS",
-      "Club": "0895280",
-      "Ville": "ERMONT",
-      "S1": "403",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "403"
-    },
-    {
-      "Rang Nat.": "355",
-      "Rang Reg.": "27",
+      "Rang Nat.": "374",
+      "Rang Reg.": "28",
       "Rang Dep.": "",
       "Licence": "0967499E",
       "Nom": "GENSOLLEN ADRIEN",
@@ -4638,7 +4885,20 @@
       "Moy.": "403"
     },
     {
-      "Rang Nat.": "356",
+      "Rang Nat.": "375",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1029118E",
+      "Nom": "CABRAL MIRANDA MARCO FELIPE",
+      "Club": "0895279",
+      "Ville": "ARGENTEUIL",
+      "S1": "404",
+      "S2": "401",
+      "S3": "0",
+      "Moy.": "402"
+    },
+    {
+      "Rang Nat.": "376",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0995014M",
@@ -4651,7 +4911,7 @@
       "Moy.": "402"
     },
     {
-      "Rang Nat.": "357",
+      "Rang Nat.": "377",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1006000A",
@@ -4664,20 +4924,20 @@
       "Moy.": "401"
     },
     {
-      "Rang Nat.": "358",
+      "Rang Nat.": "378",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "1029118E",
-      "Nom": "CABRAL MIRANDA MARCO FELIPE",
-      "Club": "0895279",
-      "Ville": "ARGENTEUIL",
+      "Licence": "1068272C",
+      "Nom": "ROLLET MILO",
+      "Club": "0322012",
+      "Ville": "LANNION",
       "S1": "401",
       "S2": "0",
       "S3": "0",
       "Moy.": "401"
     },
     {
-      "Rang Nat.": "359",
+      "Rang Nat.": "379",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0029284F",
@@ -4690,7 +4950,20 @@
       "Moy.": "400"
     },
     {
-      "Rang Nat.": "360",
+      "Rang Nat.": "380",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0050830A",
+      "Nom": "COURATIN NATHAEL",
+      "Club": "1033097",
+      "Ville": "LE BLASON DES PE2M",
+      "S1": "399",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "399"
+    },
+    {
+      "Rang Nat.": "381",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1041401P",
@@ -4703,20 +4976,7 @@
       "Moy.": "398"
     },
     {
-      "Rang Nat.": "361",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0013973N",
-      "Nom": "BLOND NOLAN",
-      "Club": "0103035",
-      "Ville": "DOMPIERRE",
-      "S1": "397",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "397"
-    },
-    {
-      "Rang Nat.": "362",
+      "Rang Nat.": "382",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0046601D",
@@ -4729,20 +4989,20 @@
       "Moy.": "397"
     },
     {
-      "Rang Nat.": "363",
+      "Rang Nat.": "383",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0992094N",
-      "Nom": "GOURLIN CLEMENT",
-      "Club": "0289126",
-      "Ville": "LES ARCHERS MALAYSIENS",
-      "S1": "396",
+      "Licence": "0013973N",
+      "Nom": "BLOND NOLAN",
+      "Club": "0103035",
+      "Ville": "DOMPIERRE",
+      "S1": "397",
       "S2": "0",
       "S3": "0",
-      "Moy.": "396"
+      "Moy.": "397"
     },
     {
-      "Rang Nat.": "364",
+      "Rang Nat.": "384",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1034267F",
@@ -4755,7 +5015,7 @@
       "Moy.": "396"
     },
     {
-      "Rang Nat.": "365",
+      "Rang Nat.": "385",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1042739B",
@@ -4768,7 +5028,7 @@
       "Moy.": "395"
     },
     {
-      "Rang Nat.": "366",
+      "Rang Nat.": "386",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0044728T",
@@ -4781,7 +5041,20 @@
       "Moy.": "394"
     },
     {
-      "Rang Nat.": "367",
+      "Rang Nat.": "387",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0005627S",
+      "Nom": "HELLEQUIN CAYRE ANTOINE",
+      "Club": "1040124",
+      "Ville": "DAX",
+      "S1": "426",
+      "S2": "361",
+      "S3": "0",
+      "Moy.": "393"
+    },
+    {
+      "Rang Nat.": "388",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1049363V",
@@ -4794,7 +5067,7 @@
       "Moy.": "393"
     },
     {
-      "Rang Nat.": "368",
+      "Rang Nat.": "389",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0042819T",
@@ -4807,7 +5080,7 @@
       "Moy.": "393"
     },
     {
-      "Rang Nat.": "369",
+      "Rang Nat.": "390",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1055028S",
@@ -4820,7 +5093,7 @@
       "Moy.": "392"
     },
     {
-      "Rang Nat.": "370",
+      "Rang Nat.": "391",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1010742K",
@@ -4833,7 +5106,7 @@
       "Moy.": "392"
     },
     {
-      "Rang Nat.": "371",
+      "Rang Nat.": "392",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1057587D",
@@ -4846,20 +5119,7 @@
       "Moy.": "390"
     },
     {
-      "Rang Nat.": "372",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1018242W",
-      "Nom": "MORGES TIMEO",
-      "Club": "0895300",
-      "Ville": "CORMEILLES EN PARIS",
-      "S1": "412",
-      "S2": "368",
-      "S3": "0",
-      "Moy.": "390"
-    },
-    {
-      "Rang Nat.": "373",
+      "Rang Nat.": "393",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0980709N",
@@ -4872,8 +5132,8 @@
       "Moy.": "390"
     },
     {
-      "Rang Nat.": "374",
-      "Rang Reg.": "28",
+      "Rang Nat.": "394",
+      "Rang Reg.": "29",
       "Rang Dep.": "",
       "Licence": "1054485V",
       "Nom": "ROYER MATHÉO",
@@ -4885,7 +5145,7 @@
       "Moy.": "389"
     },
     {
-      "Rang Nat.": "375",
+      "Rang Nat.": "395",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1032270K",
@@ -4898,7 +5158,7 @@
       "Moy.": "389"
     },
     {
-      "Rang Nat.": "376",
+      "Rang Nat.": "396",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1003925F",
@@ -4911,7 +5171,7 @@
       "Moy.": "389"
     },
     {
-      "Rang Nat.": "377",
+      "Rang Nat.": "397",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1070577T",
@@ -4924,7 +5184,7 @@
       "Moy.": "389"
     },
     {
-      "Rang Nat.": "378",
+      "Rang Nat.": "398",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0044556F",
@@ -4937,7 +5197,7 @@
       "Moy.": "388"
     },
     {
-      "Rang Nat.": "379",
+      "Rang Nat.": "399",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1062312W",
@@ -4950,7 +5210,20 @@
       "Moy.": "388"
     },
     {
-      "Rang Nat.": "380",
+      "Rang Nat.": "400",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1007233L",
+      "Nom": "PUECH KEVIN",
+      "Club": "1313090",
+      "Ville": "ST MARTIN DE CRAU",
+      "S1": "387",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "387"
+    },
+    {
+      "Rang Nat.": "401",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0010768E",
@@ -4963,7 +5236,7 @@
       "Moy.": "387"
     },
     {
-      "Rang Nat.": "381",
+      "Rang Nat.": "402",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1071752Y",
@@ -4976,7 +5249,7 @@
       "Moy.": "386"
     },
     {
-      "Rang Nat.": "382",
+      "Rang Nat.": "403",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1027368W",
@@ -4989,7 +5262,7 @@
       "Moy.": "384"
     },
     {
-      "Rang Nat.": "383",
+      "Rang Nat.": "404",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0031822P",
@@ -5002,20 +5275,7 @@
       "Moy.": "384"
     },
     {
-      "Rang Nat.": "384",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0001604U",
-      "Nom": "LEOPOLD FABIEN",
-      "Club": "0329053",
-      "Ville": "PLOURIN LES MORLAIX",
-      "S1": "384",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "384"
-    },
-    {
-      "Rang Nat.": "385",
+      "Rang Nat.": "405",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0960193N",
@@ -5028,7 +5288,59 @@
       "Moy.": "384"
     },
     {
-      "Rang Nat.": "386",
+      "Rang Nat.": "406",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0001604U",
+      "Nom": "LEOPOLD FABIEN",
+      "Club": "0329053",
+      "Ville": "PLOURIN LES MORLAIX",
+      "S1": "384",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "384"
+    },
+    {
+      "Rang Nat.": "407",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1018242W",
+      "Nom": "MORGES TIMEO",
+      "Club": "0895300",
+      "Ville": "CORMEILLES EN PARIS",
+      "S1": "412",
+      "S2": "369",
+      "S3": "368",
+      "Moy.": "383"
+    },
+    {
+      "Rang Nat.": "408",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1011424Q",
+      "Nom": "BAUDOUIN LEONARD",
+      "Club": "1079182",
+      "Ville": "ARDIN",
+      "S1": "416",
+      "S2": "376",
+      "S3": "355",
+      "Moy.": "382"
+    },
+    {
+      "Rang Nat.": "409",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1030323N",
+      "Nom": "JAFFRES FAUST",
+      "Club": "0895276",
+      "Ville": "ERAGNY SUR OISE",
+      "S1": "412",
+      "S2": "378",
+      "S3": "356",
+      "Moy.": "382"
+    },
+    {
+      "Rang Nat.": "410",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1018289R",
@@ -5041,7 +5353,7 @@
       "Moy.": "382"
     },
     {
-      "Rang Nat.": "387",
+      "Rang Nat.": "411",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0983944E",
@@ -5054,7 +5366,20 @@
       "Moy.": "382"
     },
     {
-      "Rang Nat.": "388",
+      "Rang Nat.": "412",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1003484G",
+      "Nom": "MOREL A L'HUISSIER HIPPOLYTE",
+      "Club": "0163165",
+      "Ville": "ARTONNE - SAINT MYON",
+      "S1": "427",
+      "S2": "370",
+      "S3": "348",
+      "Moy.": "381"
+    },
+    {
+      "Rang Nat.": "413",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0019775V",
@@ -5067,7 +5392,7 @@
       "Moy.": "381"
     },
     {
-      "Rang Nat.": "389",
+      "Rang Nat.": "414",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1042435J",
@@ -5080,7 +5405,7 @@
       "Moy.": "381"
     },
     {
-      "Rang Nat.": "390",
+      "Rang Nat.": "415",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0996640E",
@@ -5093,7 +5418,7 @@
       "Moy.": "380"
     },
     {
-      "Rang Nat.": "391",
+      "Rang Nat.": "416",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0973852K",
@@ -5106,8 +5431,8 @@
       "Moy.": "380"
     },
     {
-      "Rang Nat.": "392",
-      "Rang Reg.": "29",
+      "Rang Nat.": "417",
+      "Rang Reg.": "31",
       "Rang Dep.": "",
       "Licence": "0987563N",
       "Nom": "GUILLAUME LOUIS",
@@ -5119,33 +5444,7 @@
       "Moy.": "380"
     },
     {
-      "Rang Nat.": "393",
-      "Rang Reg.": "30",
-      "Rang Dep.": "",
-      "Licence": "1031487H",
-      "Nom": "SALINA LUCA",
-      "Club": "0667143",
-      "Ville": "LINGOLSHEIM",
-      "S1": "380",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "380"
-    },
-    {
-      "Rang Nat.": "394",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1056783F",
-      "Nom": "AGGAD AGHILES",
-      "Club": "0892211",
-      "Ville": "ASNIERES SUR SEINE",
-      "S1": "380",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "380"
-    },
-    {
-      "Rang Nat.": "395",
+      "Rang Nat.": "418",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0005916F",
@@ -5158,7 +5457,33 @@
       "Moy.": "380"
     },
     {
-      "Rang Nat.": "396",
+      "Rang Nat.": "419",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1056783F",
+      "Nom": "AGGAD AGHILES",
+      "Club": "0892211",
+      "Ville": "ASNIERES SUR SEINE",
+      "S1": "380",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "380"
+    },
+    {
+      "Rang Nat.": "420",
+      "Rang Reg.": "32",
+      "Rang Dep.": "",
+      "Licence": "1031487H",
+      "Nom": "SALINA LUCA",
+      "Club": "0667143",
+      "Ville": "LINGOLSHEIM",
+      "S1": "380",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "380"
+    },
+    {
+      "Rang Nat.": "421",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1031485F",
@@ -5171,7 +5496,7 @@
       "Moy.": "379"
     },
     {
-      "Rang Nat.": "397",
+      "Rang Nat.": "422",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1033395R",
@@ -5184,7 +5509,7 @@
       "Moy.": "378"
     },
     {
-      "Rang Nat.": "398",
+      "Rang Nat.": "423",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1035120A",
@@ -5197,7 +5522,7 @@
       "Moy.": "378"
     },
     {
-      "Rang Nat.": "399",
+      "Rang Nat.": "424",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0050167E",
@@ -5210,7 +5535,7 @@
       "Moy.": "377"
     },
     {
-      "Rang Nat.": "400",
+      "Rang Nat.": "425",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0025850Y",
@@ -5223,7 +5548,7 @@
       "Moy.": "377"
     },
     {
-      "Rang Nat.": "401",
+      "Rang Nat.": "426",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1031110U",
@@ -5236,7 +5561,7 @@
       "Moy.": "377"
     },
     {
-      "Rang Nat.": "402",
+      "Rang Nat.": "427",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0022450C",
@@ -5249,20 +5574,7 @@
       "Moy.": "376"
     },
     {
-      "Rang Nat.": "403",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0059712E",
-      "Nom": "MORICE DORYAN",
-      "Club": "0976133",
-      "Ville": "YVETOT",
-      "S1": "391",
-      "S2": "361",
-      "S3": "0",
-      "Moy.": "376"
-    },
-    {
-      "Rang Nat.": "404",
+      "Rang Nat.": "428",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1020963N",
@@ -5275,20 +5587,46 @@
       "Moy.": "376"
     },
     {
-      "Rang Nat.": "405",
-      "Rang Reg.": "31",
+      "Rang Nat.": "429",
+      "Rang Reg.": "30",
       "Rang Dep.": "",
       "Licence": "0055128X",
       "Nom": "SCHEFFER GABRIEL",
       "Club": "0654069",
       "Ville": "VARANGEVILLE",
+      "S1": "400",
+      "S2": "376",
+      "S3": "0",
+      "Moy.": "388"
+    },
+    {
+      "Rang Nat.": "430",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1034236A",
+      "Nom": "RAYNAL PIERRE",
+      "Club": "1112032",
+      "Ville": "SEVERAC LE CHATEAU",
       "S1": "376",
       "S2": "0",
       "S3": "0",
       "Moy.": "376"
     },
     {
-      "Rang Nat.": "406",
+      "Rang Nat.": "431",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0015802B",
+      "Nom": "PERALTA LUCAS",
+      "Club": "0895280",
+      "Ville": "ERMONT",
+      "S1": "403",
+      "S2": "348",
+      "S3": "0",
+      "Moy.": "375"
+    },
+    {
+      "Rang Nat.": "432",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1000426Q",
@@ -5301,20 +5639,7 @@
       "Moy.": "373"
     },
     {
-      "Rang Nat.": "407",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1035818W",
-      "Nom": "WANG LUCAS",
-      "Club": "1131079",
-      "Ville": "TOURNEFEUILLE",
-      "S1": "373",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "373"
-    },
-    {
-      "Rang Nat.": "408",
+      "Rang Nat.": "433",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0030819Z",
@@ -5327,33 +5652,46 @@
       "Moy.": "373"
     },
     {
-      "Rang Nat.": "409",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1059707R",
-      "Nom": "POUGETOUX LOUIS",
-      "Club": "0895274",
-      "Ville": "SANNOIS",
-      "S1": "373",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "373"
-    },
-    {
-      "Rang Nat.": "410",
+      "Rang Nat.": "434",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1027615J",
       "Nom": "CREVEL MAXENCE",
       "Club": "0976141",
       "Ville": "COMPAGNIE DE GAILLEFONTAINE",
+      "S1": "409",
+      "S2": "373",
+      "S3": "0",
+      "Moy.": "391"
+    },
+    {
+      "Rang Nat.": "435",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1035818W",
+      "Nom": "WANG LUCAS",
+      "Club": "1131079",
+      "Ville": "TOURNEFEUILLE",
       "S1": "373",
       "S2": "0",
       "S3": "0",
       "Moy.": "373"
     },
     {
-      "Rang Nat.": "411",
+      "Rang Nat.": "436",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0020564C",
+      "Nom": "PREVOTEAUX AUGUSTIN",
+      "Club": "0702068",
+      "Ville": "VAILLY SUR AISNE",
+      "S1": "424",
+      "S2": "395",
+      "S3": "298",
+      "Moy.": "372"
+    },
+    {
+      "Rang Nat.": "437",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1033780M",
@@ -5366,8 +5704,8 @@
       "Moy.": "372"
     },
     {
-      "Rang Nat.": "412",
-      "Rang Reg.": "32",
+      "Rang Nat.": "438",
+      "Rang Reg.": "33",
       "Rang Dep.": "",
       "Licence": "0051355W",
       "Nom": "LAMOTTE ZEPHYR",
@@ -5379,7 +5717,7 @@
       "Moy.": "372"
     },
     {
-      "Rang Nat.": "413",
+      "Rang Nat.": "439",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1067335B",
@@ -5392,7 +5730,7 @@
       "Moy.": "372"
     },
     {
-      "Rang Nat.": "414",
+      "Rang Nat.": "440",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0014434P",
@@ -5405,7 +5743,7 @@
       "Moy.": "372"
     },
     {
-      "Rang Nat.": "415",
+      "Rang Nat.": "441",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1026964I",
@@ -5418,7 +5756,20 @@
       "Moy.": "371"
     },
     {
-      "Rang Nat.": "416",
+      "Rang Nat.": "442",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1030913F",
+      "Nom": "GUIMBERTAUD YOEN",
+      "Club": "1033100",
+      "Ville": "AMBARES",
+      "S1": "371",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "371"
+    },
+    {
+      "Rang Nat.": "443",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0034879M",
@@ -5431,7 +5782,7 @@
       "Moy.": "370"
     },
     {
-      "Rang Nat.": "417",
+      "Rang Nat.": "444",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1001726Q",
@@ -5444,7 +5795,7 @@
       "Moy.": "369"
     },
     {
-      "Rang Nat.": "418",
+      "Rang Nat.": "445",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0051582T",
@@ -5457,7 +5808,7 @@
       "Moy.": "369"
     },
     {
-      "Rang Nat.": "419",
+      "Rang Nat.": "446",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1014583D",
@@ -5470,20 +5821,7 @@
       "Moy.": "368"
     },
     {
-      "Rang Nat.": "420",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1047847N",
-      "Nom": "CLOAREC LANCELIN",
-      "Club": "0329037",
-      "Ville": "ST RENAN",
-      "S1": "368",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "368"
-    },
-    {
-      "Rang Nat.": "421",
+      "Rang Nat.": "447",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1011630O",
@@ -5496,7 +5834,20 @@
       "Moy.": "368"
     },
     {
-      "Rang Nat.": "422",
+      "Rang Nat.": "448",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1047847N",
+      "Nom": "CLOAREC LANCELIN",
+      "Club": "0329037",
+      "Ville": "ST RENAN",
+      "S1": "368",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "368"
+    },
+    {
+      "Rang Nat.": "449",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1005766A",
@@ -5509,33 +5860,7 @@
       "Moy.": "367"
     },
     {
-      "Rang Nat.": "423",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1030323N",
-      "Nom": "JAFFRES FAUST",
-      "Club": "0895276",
-      "Ville": "ERAGNY SUR OISE",
-      "S1": "378",
-      "S2": "356",
-      "S3": "0",
-      "Moy.": "367"
-    },
-    {
-      "Rang Nat.": "424",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0060925Y",
-      "Nom": "CENTONZE LOUIS",
-      "Club": "0702066",
-      "Ville": "PINON",
-      "S1": "367",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "367"
-    },
-    {
-      "Rang Nat.": "425",
+      "Rang Nat.": "450",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1033964O",
@@ -5548,7 +5873,20 @@
       "Moy.": "367"
     },
     {
-      "Rang Nat.": "426",
+      "Rang Nat.": "451",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0027188C",
+      "Nom": "GOUIN MAXIME",
+      "Club": "1253084",
+      "Ville": "MAYENNE",
+      "S1": "401",
+      "S2": "332",
+      "S3": "0",
+      "Moy.": "366"
+    },
+    {
+      "Rang Nat.": "452",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1033359H",
@@ -5561,20 +5899,7 @@
       "Moy.": "366"
     },
     {
-      "Rang Nat.": "427",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1011424Q",
-      "Nom": "BAUDOUIN LEONARD",
-      "Club": "1079182",
-      "Ville": "ARDIN",
-      "S1": "376",
-      "S2": "355",
-      "S3": "0",
-      "Moy.": "365"
-    },
-    {
-      "Rang Nat.": "428",
+      "Rang Nat.": "453",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0018760S",
@@ -5587,7 +5912,7 @@
       "Moy.": "364"
     },
     {
-      "Rang Nat.": "429",
+      "Rang Nat.": "454",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1043985Z",
@@ -5600,7 +5925,20 @@
       "Moy.": "364"
     },
     {
-      "Rang Nat.": "430",
+      "Rang Nat.": "455",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0040566U",
+      "Nom": "BENZAKIN DRAB ARTHUR",
+      "Club": "0891148",
+      "Ville": "MORANGIS",
+      "S1": "364",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "364"
+    },
+    {
+      "Rang Nat.": "456",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0024345M",
@@ -5613,8 +5951,8 @@
       "Moy.": "363"
     },
     {
-      "Rang Nat.": "431",
-      "Rang Reg.": "33",
+      "Rang Nat.": "457",
+      "Rang Reg.": "34",
       "Rang Dep.": "",
       "Licence": "1060532K",
       "Nom": "MIRAUCOURT SACHA",
@@ -5626,7 +5964,7 @@
       "Moy.": "363"
     },
     {
-      "Rang Nat.": "432",
+      "Rang Nat.": "458",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0063792P",
@@ -5639,7 +5977,7 @@
       "Moy.": "362"
     },
     {
-      "Rang Nat.": "433",
+      "Rang Nat.": "459",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1021108C",
@@ -5652,7 +5990,20 @@
       "Moy.": "362"
     },
     {
-      "Rang Nat.": "434",
+      "Rang Nat.": "460",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0970768H",
+      "Nom": "GOUJON AARON",
+      "Club": "0163168",
+      "Ville": "ST BEAUZIRE",
+      "S1": "370",
+      "S2": "360",
+      "S3": "348",
+      "Moy.": "359"
+    },
+    {
+      "Rang Nat.": "461",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0051213S",
@@ -5665,20 +6016,7 @@
       "Moy.": "359"
     },
     {
-      "Rang Nat.": "435",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0056060K",
-      "Nom": "GAUDION SAMUEL",
-      "Club": "0702082",
-      "Ville": "CHARLY SUR MARNE",
-      "S1": "359",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "359"
-    },
-    {
-      "Rang Nat.": "436",
+      "Rang Nat.": "462",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1061527R",
@@ -5691,7 +6029,20 @@
       "Moy.": "359"
     },
     {
-      "Rang Nat.": "437",
+      "Rang Nat.": "463",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0056060K",
+      "Nom": "GAUDION SAMUEL",
+      "Club": "0702082",
+      "Ville": "CHARLY SUR MARNE",
+      "S1": "359",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "359"
+    },
+    {
+      "Rang Nat.": "464",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0034738J",
@@ -5704,7 +6055,7 @@
       "Moy.": "358"
     },
     {
-      "Rang Nat.": "438",
+      "Rang Nat.": "465",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0003379Y",
@@ -5717,7 +6068,7 @@
       "Moy.": "357"
     },
     {
-      "Rang Nat.": "439",
+      "Rang Nat.": "466",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0009615B",
@@ -5730,7 +6081,7 @@
       "Moy.": "356"
     },
     {
-      "Rang Nat.": "440",
+      "Rang Nat.": "467",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0022819D",
@@ -5738,12 +6089,12 @@
       "Club": "1244025",
       "Ville": "COUERON",
       "S1": "407",
-      "S2": "304",
-      "S3": "0",
-      "Moy.": "355"
+      "S2": "337",
+      "S3": "304",
+      "Moy.": "349"
     },
     {
-      "Rang Nat.": "441",
+      "Rang Nat.": "468",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1073737H",
@@ -5756,7 +6107,7 @@
       "Moy.": "355"
     },
     {
-      "Rang Nat.": "442",
+      "Rang Nat.": "469",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0038721N",
@@ -5769,7 +6120,7 @@
       "Moy.": "355"
     },
     {
-      "Rang Nat.": "443",
+      "Rang Nat.": "470",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0033207V",
@@ -5782,8 +6133,21 @@
       "Moy.": "355"
     },
     {
-      "Rang Nat.": "444",
-      "Rang Reg.": "34",
+      "Rang Nat.": "471",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1062237Z",
+      "Nom": "GUIMBERT ALOIS",
+      "Club": "0289109",
+      "Ville": "AUXERRE 1ER",
+      "S1": "364",
+      "S2": "342",
+      "S3": "0",
+      "Moy.": "353"
+    },
+    {
+      "Rang Nat.": "472",
+      "Rang Reg.": "35",
       "Rang Dep.": "",
       "Licence": "0024244C",
       "Nom": "LARMIGNY HUGO",
@@ -5795,20 +6159,20 @@
       "Moy.": "352"
     },
     {
-      "Rang Nat.": "445",
+      "Rang Nat.": "473",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0970768H",
-      "Nom": "GOUJON AARON",
-      "Club": "0163168",
-      "Ville": "ST BEAUZIRE",
-      "S1": "370",
-      "S2": "348",
-      "S3": "339",
-      "Moy.": "352"
+      "Licence": "0059712E",
+      "Nom": "MORICE DORYAN",
+      "Club": "0976133",
+      "Ville": "YVETOT",
+      "S1": "391",
+      "S2": "361",
+      "S3": "303",
+      "Moy.": "351"
     },
     {
-      "Rang Nat.": "446",
+      "Rang Nat.": "474",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1048926A",
@@ -5821,20 +6185,20 @@
       "Moy.": "351"
     },
     {
-      "Rang Nat.": "447",
+      "Rang Nat.": "475",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0988370R",
       "Nom": "BRICOUT ETHAN",
       "Club": "0759350",
       "Ville": "LADLR",
-      "S1": "387",
-      "S2": "339",
-      "S3": "323",
-      "Moy.": "349"
+      "S1": "396",
+      "S2": "387",
+      "S3": "339",
+      "Moy.": "374"
     },
     {
-      "Rang Nat.": "448",
+      "Rang Nat.": "476",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1042002S",
@@ -5847,7 +6211,7 @@
       "Moy.": "349"
     },
     {
-      "Rang Nat.": "449",
+      "Rang Nat.": "477",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1011802E",
@@ -5860,34 +6224,34 @@
       "Moy.": "348"
     },
     {
-      "Rang Nat.": "450",
+      "Rang Nat.": "478",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0978803S",
       "Nom": "THEOT JULES",
       "Club": "0780323",
       "Ville": "ROYE",
-      "S1": "348",
-      "S2": "0",
+      "S1": "349",
+      "S2": "348",
       "S3": "0",
       "Moy.": "348"
     },
     {
-      "Rang Nat.": "451",
+      "Rang Nat.": "479",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0020564C",
-      "Nom": "PREVOTEAUX AUGUSTIN",
-      "Club": "0702068",
-      "Ville": "VAILLY SUR AISNE",
-      "S1": "395",
-      "S2": "298",
+      "Licence": "0060925Y",
+      "Nom": "CENTONZE LOUIS",
+      "Club": "0702066",
+      "Ville": "PINON",
+      "S1": "367",
+      "S2": "325",
       "S3": "0",
       "Moy.": "346"
     },
     {
-      "Rang Nat.": "452",
-      "Rang Reg.": "35",
+      "Rang Nat.": "480",
+      "Rang Reg.": "36",
       "Rang Dep.": "",
       "Licence": "0990522E",
       "Nom": "DOYEN MAXENCE",
@@ -5899,7 +6263,7 @@
       "Moy.": "346"
     },
     {
-      "Rang Nat.": "453",
+      "Rang Nat.": "481",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1029092E",
@@ -5912,7 +6276,7 @@
       "Moy.": "346"
     },
     {
-      "Rang Nat.": "454",
+      "Rang Nat.": "482",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0030223B",
@@ -5925,7 +6289,7 @@
       "Moy.": "345"
     },
     {
-      "Rang Nat.": "455",
+      "Rang Nat.": "483",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1032734G",
@@ -5938,7 +6302,20 @@
       "Moy.": "345"
     },
     {
-      "Rang Nat.": "456",
+      "Rang Nat.": "484",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1000353V",
+      "Nom": "LECONTE AMAURY",
+      "Club": "0976121",
+      "Ville": "OFFRANVILLE",
+      "S1": "400",
+      "S2": "321",
+      "S3": "313",
+      "Moy.": "344"
+    },
+    {
+      "Rang Nat.": "485",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0020516A",
@@ -5951,7 +6328,7 @@
       "Moy.": "344"
     },
     {
-      "Rang Nat.": "457",
+      "Rang Nat.": "486",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0010234Z",
@@ -5964,7 +6341,7 @@
       "Moy.": "343"
     },
     {
-      "Rang Nat.": "458",
+      "Rang Nat.": "487",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1069450K",
@@ -5977,7 +6354,7 @@
       "Moy.": "343"
     },
     {
-      "Rang Nat.": "459",
+      "Rang Nat.": "488",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0040044B",
@@ -5990,7 +6367,7 @@
       "Moy.": "343"
     },
     {
-      "Rang Nat.": "460",
+      "Rang Nat.": "489",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1024888M",
@@ -6003,33 +6380,20 @@
       "Moy.": "343"
     },
     {
-      "Rang Nat.": "461",
+      "Rang Nat.": "490",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1087749F",
       "Nom": "GUERET MOUCHEL ARTHUR",
       "Club": "0961142",
       "Ville": "VIMOUTIERS",
-      "S1": "342",
-      "S2": "0",
+      "S1": "398",
+      "S2": "342",
       "S3": "0",
-      "Moy.": "342"
+      "Moy.": "370"
     },
     {
-      "Rang Nat.": "462",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1062237Z",
-      "Nom": "GUIMBERT ALOIS",
-      "Club": "0289109",
-      "Ville": "AUXERRE 1ER",
-      "S1": "342",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "342"
-    },
-    {
-      "Rang Nat.": "463",
+      "Rang Nat.": "491",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1002587T",
@@ -6042,7 +6406,7 @@
       "Moy.": "341"
     },
     {
-      "Rang Nat.": "464",
+      "Rang Nat.": "492",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1037496K",
@@ -6055,7 +6419,7 @@
       "Moy.": "341"
     },
     {
-      "Rang Nat.": "465",
+      "Rang Nat.": "493",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0042771R",
@@ -6068,7 +6432,20 @@
       "Moy.": "340"
     },
     {
-      "Rang Nat.": "466",
+      "Rang Nat.": "494",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1059707R",
+      "Nom": "POUGETOUX LOUIS",
+      "Club": "0895274",
+      "Ville": "SANNOIS",
+      "S1": "373",
+      "S2": "304",
+      "S3": "0",
+      "Moy.": "338"
+    },
+    {
+      "Rang Nat.": "495",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0032004M",
@@ -6081,7 +6458,20 @@
       "Moy.": "338"
     },
     {
-      "Rang Nat.": "467",
+      "Rang Nat.": "496",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0984547K",
+      "Nom": "MALZAC ROBERT THOMAS",
+      "Club": "1148164",
+      "Ville": "CHANAC",
+      "S1": "345",
+      "S2": "331",
+      "S3": "0",
+      "Moy.": "338"
+    },
+    {
+      "Rang Nat.": "497",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1051249J",
@@ -6094,7 +6484,7 @@
       "Moy.": "337"
     },
     {
-      "Rang Nat.": "468",
+      "Rang Nat.": "498",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1005504Y",
@@ -6107,20 +6497,20 @@
       "Moy.": "336"
     },
     {
-      "Rang Nat.": "469",
+      "Rang Nat.": "499",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "1077338U",
-      "Nom": "PEGUIN MAXIME",
-      "Club": "0759352",
-      "Ville": "LES ARCHERS DE LEGOLAS",
-      "S1": "336",
-      "S2": "0",
+      "Licence": "1064918C",
+      "Nom": "PAQUIER SIMON",
+      "Club": "0976090",
+      "Ville": "FECAMP",
+      "S1": "346",
+      "S2": "326",
       "S3": "0",
       "Moy.": "336"
     },
     {
-      "Rang Nat.": "470",
+      "Rang Nat.": "500",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0009632V",
@@ -6133,7 +6523,20 @@
       "Moy.": "336"
     },
     {
-      "Rang Nat.": "471",
+      "Rang Nat.": "501",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1077338U",
+      "Nom": "PEGUIN MAXIME",
+      "Club": "0759352",
+      "Ville": "LES ARCHERS DE LEGOLAS",
+      "S1": "336",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "336"
+    },
+    {
+      "Rang Nat.": "502",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1028047Z",
@@ -6146,7 +6549,7 @@
       "Moy.": "334"
     },
     {
-      "Rang Nat.": "472",
+      "Rang Nat.": "503",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1037502Q",
@@ -6159,7 +6562,7 @@
       "Moy.": "333"
     },
     {
-      "Rang Nat.": "473",
+      "Rang Nat.": "504",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0037803R",
@@ -6172,7 +6575,7 @@
       "Moy.": "333"
     },
     {
-      "Rang Nat.": "474",
+      "Rang Nat.": "505",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1021915D",
@@ -6185,33 +6588,20 @@
       "Moy.": "333"
     },
     {
-      "Rang Nat.": "475",
+      "Rang Nat.": "506",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0027188C",
-      "Nom": "GOUIN MAXIME",
-      "Club": "1253084",
-      "Ville": "MAYENNE",
-      "S1": "332",
+      "Licence": "1037144W",
+      "Nom": "LE MORVAN NOÉ",
+      "Club": "0895273",
+      "Ville": "OSNY",
+      "S1": "333",
       "S2": "0",
       "S3": "0",
-      "Moy.": "332"
+      "Moy.": "333"
     },
     {
-      "Rang Nat.": "476",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0984547K",
-      "Nom": "MALZAC ROBERT THOMAS",
-      "Club": "1148164",
-      "Ville": "CHANAC",
-      "S1": "331",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "331"
-    },
-    {
-      "Rang Nat.": "477",
+      "Rang Nat.": "507",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0052418B",
@@ -6224,7 +6614,7 @@
       "Moy.": "331"
     },
     {
-      "Rang Nat.": "478",
+      "Rang Nat.": "508",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0049141P",
@@ -6237,7 +6627,20 @@
       "Moy.": "330"
     },
     {
-      "Rang Nat.": "479",
+      "Rang Nat.": "509",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1032833B",
+      "Nom": "CALTAUX THIBAULT",
+      "Club": "0418015",
+      "Ville": "BOURGES 1ERE",
+      "S1": "328",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "328"
+    },
+    {
+      "Rang Nat.": "510",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1030546C",
@@ -6250,7 +6653,7 @@
       "Moy.": "328"
     },
     {
-      "Rang Nat.": "480",
+      "Rang Nat.": "511",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1029708W",
@@ -6263,7 +6666,7 @@
       "Moy.": "328"
     },
     {
-      "Rang Nat.": "481",
+      "Rang Nat.": "512",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0020693T",
@@ -6272,11 +6675,11 @@
       "Ville": "COUERON",
       "S1": "357",
       "S2": "297",
-      "S3": "0",
-      "Moy.": "327"
+      "S3": "281",
+      "Moy.": "311"
     },
     {
-      "Rang Nat.": "482",
+      "Rang Nat.": "513",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0976692X",
@@ -6289,7 +6692,20 @@
       "Moy.": "327"
     },
     {
-      "Rang Nat.": "483",
+      "Rang Nat.": "514",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1027392U",
+      "Nom": "BOUZEREAU GASPARD",
+      "Club": "0221014",
+      "Ville": "DIJON",
+      "S1": "326",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "326"
+    },
+    {
+      "Rang Nat.": "515",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1076388G",
@@ -6302,7 +6718,7 @@
       "Moy.": "325"
     },
     {
-      "Rang Nat.": "484",
+      "Rang Nat.": "516",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1001542O",
@@ -6315,7 +6731,7 @@
       "Moy.": "325"
     },
     {
-      "Rang Nat.": "485",
+      "Rang Nat.": "517",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0058827T",
@@ -6328,7 +6744,7 @@
       "Moy.": "325"
     },
     {
-      "Rang Nat.": "486",
+      "Rang Nat.": "518",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1040072M",
@@ -6341,7 +6757,7 @@
       "Moy.": "324"
     },
     {
-      "Rang Nat.": "487",
+      "Rang Nat.": "519",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1026345N",
@@ -6354,7 +6770,7 @@
       "Moy.": "322"
     },
     {
-      "Rang Nat.": "488",
+      "Rang Nat.": "520",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1062104W",
@@ -6367,7 +6783,20 @@
       "Moy.": "321"
     },
     {
-      "Rang Nat.": "489",
+      "Rang Nat.": "521",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0032742P",
+      "Nom": "KERVERN EWEN",
+      "Club": "0437075",
+      "Ville": "ST CYR SUR LOIRE",
+      "S1": "370",
+      "S2": "272",
+      "S3": "0",
+      "Moy.": "321"
+    },
+    {
+      "Rang Nat.": "522",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0015087Z",
@@ -6380,7 +6809,7 @@
       "Moy.": "321"
     },
     {
-      "Rang Nat.": "490",
+      "Rang Nat.": "523",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1041423L",
@@ -6393,20 +6822,7 @@
       "Moy.": "319"
     },
     {
-      "Rang Nat.": "491",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1000353V",
-      "Nom": "LECONTE AMAURY",
-      "Club": "0976121",
-      "Ville": "OFFRANVILLE",
-      "S1": "321",
-      "S2": "313",
-      "S3": "0",
-      "Moy.": "317"
-    },
-    {
-      "Rang Nat.": "492",
+      "Rang Nat.": "524",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0036159D",
@@ -6419,7 +6835,7 @@
       "Moy.": "317"
     },
     {
-      "Rang Nat.": "493",
+      "Rang Nat.": "525",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1060208Y",
@@ -6432,20 +6848,7 @@
       "Moy.": "316"
     },
     {
-      "Rang Nat.": "494",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1003484G",
-      "Nom": "MOREL A L'HUISSIER HIPPOLYTE",
-      "Club": "0163165",
-      "Ville": "ARTONNE - SAINT MYON",
-      "S1": "348",
-      "S2": "284",
-      "S3": "0",
-      "Moy.": "316"
-    },
-    {
-      "Rang Nat.": "495",
+      "Rang Nat.": "526",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0015179Z",
@@ -6458,7 +6861,7 @@
       "Moy.": "315"
     },
     {
-      "Rang Nat.": "496",
+      "Rang Nat.": "527",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0029320V",
@@ -6471,7 +6874,7 @@
       "Moy.": "314"
     },
     {
-      "Rang Nat.": "497",
+      "Rang Nat.": "528",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0047816Z",
@@ -6484,7 +6887,7 @@
       "Moy.": "313"
     },
     {
-      "Rang Nat.": "498",
+      "Rang Nat.": "529",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1030077B",
@@ -6497,7 +6900,7 @@
       "Moy.": "313"
     },
     {
-      "Rang Nat.": "499",
+      "Rang Nat.": "530",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0935395J",
@@ -6510,7 +6913,20 @@
       "Moy.": "313"
     },
     {
-      "Rang Nat.": "500",
+      "Rang Nat.": "531",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1046134Q",
+      "Nom": "LACHAISE ROGEAUX NOAH",
+      "Club": "0895286",
+      "Ville": "PLESSIS BOUCHARD",
+      "S1": "312",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "312"
+    },
+    {
+      "Rang Nat.": "532",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1084472E",
@@ -6523,7 +6939,7 @@
       "Moy.": "311"
     },
     {
-      "Rang Nat.": "501",
+      "Rang Nat.": "533",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1027200K",
@@ -6536,7 +6952,7 @@
       "Moy.": "310"
     },
     {
-      "Rang Nat.": "502",
+      "Rang Nat.": "534",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1070563F",
@@ -6549,20 +6965,7 @@
       "Moy.": "306"
     },
     {
-      "Rang Nat.": "503",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1027818E",
-      "Nom": "LEVAVASSEUR NATHAN",
-      "Club": "0950072",
-      "Ville": "CHERBOURG EN COTENTIN",
-      "S1": "305",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "305"
-    },
-    {
-      "Rang Nat.": "504",
+      "Rang Nat.": "535",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1000049D",
@@ -6575,7 +6978,33 @@
       "Moy.": "305"
     },
     {
-      "Rang Nat.": "505",
+      "Rang Nat.": "536",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1027818E",
+      "Nom": "LEVAVASSEUR NATHAN",
+      "Club": "0950072",
+      "Ville": "CHERBOURG EN COTENTIN",
+      "S1": "305",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "305"
+    },
+    {
+      "Rang Nat.": "537",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0000952K",
+      "Nom": "JANDAUD ANTOINE",
+      "Club": "0163161",
+      "Ville": "CHATEL GUYON",
+      "S1": "353",
+      "S2": "304",
+      "S3": "254",
+      "Moy.": "303"
+    },
+    {
+      "Rang Nat.": "538",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1067509T",
@@ -6588,7 +7017,7 @@
       "Moy.": "300"
     },
     {
-      "Rang Nat.": "506",
+      "Rang Nat.": "539",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0039329Z",
@@ -6601,7 +7030,7 @@
       "Moy.": "300"
     },
     {
-      "Rang Nat.": "507",
+      "Rang Nat.": "540",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0024011Z",
@@ -6614,7 +7043,7 @@
       "Moy.": "299"
     },
     {
-      "Rang Nat.": "508",
+      "Rang Nat.": "541",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1006286A",
@@ -6627,7 +7056,7 @@
       "Moy.": "299"
     },
     {
-      "Rang Nat.": "509",
+      "Rang Nat.": "542",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0015056R",
@@ -6640,7 +7069,7 @@
       "Moy.": "298"
     },
     {
-      "Rang Nat.": "510",
+      "Rang Nat.": "543",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1030332W",
@@ -6653,7 +7082,7 @@
       "Moy.": "297"
     },
     {
-      "Rang Nat.": "511",
+      "Rang Nat.": "544",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0009242W",
@@ -6666,7 +7095,7 @@
       "Moy.": "296"
     },
     {
-      "Rang Nat.": "512",
+      "Rang Nat.": "545",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0054078F",
@@ -6679,7 +7108,7 @@
       "Moy.": "296"
     },
     {
-      "Rang Nat.": "513",
+      "Rang Nat.": "546",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1073180W",
@@ -6692,7 +7121,7 @@
       "Moy.": "295"
     },
     {
-      "Rang Nat.": "514",
+      "Rang Nat.": "547",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1035506W",
@@ -6705,7 +7134,7 @@
       "Moy.": "294"
     },
     {
-      "Rang Nat.": "515",
+      "Rang Nat.": "548",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1042864W",
@@ -6718,7 +7147,20 @@
       "Moy.": "293"
     },
     {
-      "Rang Nat.": "516",
+      "Rang Nat.": "549",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1031207N",
+      "Nom": "MAIGA JULIEN",
+      "Club": "1313067",
+      "Ville": "SALON DE PROVENCE",
+      "S1": "291",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "291"
+    },
+    {
+      "Rang Nat.": "550",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1041089P",
@@ -6731,7 +7173,20 @@
       "Moy.": "291"
     },
     {
-      "Rang Nat.": "517",
+      "Rang Nat.": "551",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0058416W",
+      "Nom": "FONTANA QUENTIN",
+      "Club": "1383158",
+      "Ville": "LA SEYNE SUR MER",
+      "S1": "288",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "288"
+    },
+    {
+      "Rang Nat.": "552",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1016346Y",
@@ -6744,7 +7199,7 @@
       "Moy.": "287"
     },
     {
-      "Rang Nat.": "518",
+      "Rang Nat.": "553",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1040159V",
@@ -6757,7 +7212,7 @@
       "Moy.": "284"
     },
     {
-      "Rang Nat.": "519",
+      "Rang Nat.": "554",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1027149L",
@@ -6770,7 +7225,7 @@
       "Moy.": "283"
     },
     {
-      "Rang Nat.": "520",
+      "Rang Nat.": "555",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0035408M",
@@ -6783,21 +7238,8 @@
       "Moy.": "281"
     },
     {
-      "Rang Nat.": "521",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0000952K",
-      "Nom": "JANDAUD ANTOINE",
-      "Club": "0163161",
-      "Ville": "CHATEL GUYON",
-      "S1": "304",
-      "S2": "254",
-      "S3": "0",
-      "Moy.": "279"
-    },
-    {
-      "Rang Nat.": "522",
-      "Rang Reg.": "36",
+      "Rang Nat.": "556",
+      "Rang Reg.": "37",
       "Rang Dep.": "",
       "Licence": "0043678B",
       "Nom": "HUSS SCHERRER CLÉMENT",
@@ -6809,20 +7251,7 @@
       "Moy.": "275"
     },
     {
-      "Rang Nat.": "523",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1064334Q",
-      "Nom": "LARQUEMIN JOSHUA",
-      "Club": "0914024",
-      "Ville": "CARPIQUET",
-      "S1": "273",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "273"
-    },
-    {
-      "Rang Nat.": "524",
+      "Rang Nat.": "557",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0990183L",
@@ -6835,20 +7264,20 @@
       "Moy.": "273"
     },
     {
-      "Rang Nat.": "525",
+      "Rang Nat.": "558",
       "Rang Reg.": "",
       "Rang Dep.": "",
-      "Licence": "0032742P",
-      "Nom": "KERVERN EWEN",
-      "Club": "0437075",
-      "Ville": "ST CYR SUR LOIRE",
-      "S1": "272",
+      "Licence": "1064334Q",
+      "Nom": "LARQUEMIN JOSHUA",
+      "Club": "0914024",
+      "Ville": "CARPIQUET",
+      "S1": "273",
       "S2": "0",
       "S3": "0",
-      "Moy.": "272"
+      "Moy.": "273"
     },
     {
-      "Rang Nat.": "526",
+      "Rang Nat.": "559",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1061143X",
@@ -6861,20 +7290,20 @@
       "Moy.": "271"
     },
     {
-      "Rang Nat.": "527",
+      "Rang Nat.": "560",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0048510D",
       "Nom": "SAUTEREAU BAPTISTE",
       "Club": "0914025",
       "Ville": "OUISTREHAM",
-      "S1": "269",
-      "S2": "0",
+      "S1": "395",
+      "S2": "269",
       "S3": "0",
-      "Moy.": "269"
+      "Moy.": "332"
     },
     {
-      "Rang Nat.": "528",
+      "Rang Nat.": "561",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0050627E",
@@ -6887,7 +7316,7 @@
       "Moy.": "268"
     },
     {
-      "Rang Nat.": "529",
+      "Rang Nat.": "562",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1058370G",
@@ -6900,7 +7329,20 @@
       "Moy.": "267"
     },
     {
-      "Rang Nat.": "530",
+      "Rang Nat.": "563",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1030851V",
+      "Nom": "DA ROCHA VICTOR",
+      "Club": "0239050",
+      "Ville": "DOLE",
+      "S1": "267",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "267"
+    },
+    {
+      "Rang Nat.": "564",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1037203D",
@@ -6913,7 +7355,7 @@
       "Moy.": "264"
     },
     {
-      "Rang Nat.": "531",
+      "Rang Nat.": "565",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1059400W",
@@ -6926,7 +7368,7 @@
       "Moy.": "260"
     },
     {
-      "Rang Nat.": "532",
+      "Rang Nat.": "566",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1066419V",
@@ -6939,7 +7381,7 @@
       "Moy.": "260"
     },
     {
-      "Rang Nat.": "533",
+      "Rang Nat.": "567",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1024057N",
@@ -6952,7 +7394,7 @@
       "Moy.": "259"
     },
     {
-      "Rang Nat.": "534",
+      "Rang Nat.": "568",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1006296K",
@@ -6965,8 +7407,34 @@
       "Moy.": "258"
     },
     {
-      "Rang Nat.": "535",
-      "Rang Reg.": "37",
+      "Rang Nat.": "569",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1046466K",
+      "Nom": "LESAGE SIMON",
+      "Club": "0891156",
+      "Ville": "ORSAY",
+      "S1": "258",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "258"
+    },
+    {
+      "Rang Nat.": "570",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0025394C",
+      "Nom": "NGUYEN MORGAN",
+      "Club": "1313081",
+      "Ville": "PELISSANNE",
+      "S1": "290",
+      "S2": "223",
+      "S3": "0",
+      "Moy.": "256"
+    },
+    {
+      "Rang Nat.": "571",
+      "Rang Reg.": "38",
       "Rang Dep.": "6",
       "Licence": "1037300W",
       "Nom": "MICHON NOLAN",
@@ -6978,21 +7446,8 @@
       "Moy.": "256"
     },
     {
-      "Rang Nat.": "536",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0005580R",
-      "Nom": "GRANDJEAN QUENTIN",
-      "Club": "0270074",
-      "Ville": "MARNAY",
-      "S1": "315",
-      "S2": "194",
-      "S3": "0",
-      "Moy.": "254"
-    },
-    {
-      "Rang Nat.": "537",
-      "Rang Reg.": "38",
+      "Rang Nat.": "572",
+      "Rang Reg.": "39",
       "Rang Dep.": "",
       "Licence": "1037116U",
       "Nom": "BAUDELOT GEOFFREY",
@@ -7004,7 +7459,7 @@
       "Moy.": "253"
     },
     {
-      "Rang Nat.": "538",
+      "Rang Nat.": "573",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1011579P",
@@ -7017,7 +7472,20 @@
       "Moy.": "249"
     },
     {
-      "Rang Nat.": "539",
+      "Rang Nat.": "574",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0005580R",
+      "Nom": "GRANDJEAN QUENTIN",
+      "Club": "0270074",
+      "Ville": "MARNAY",
+      "S1": "315",
+      "S2": "229",
+      "S3": "194",
+      "Moy.": "246"
+    },
+    {
+      "Rang Nat.": "575",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1015037P",
@@ -7030,7 +7498,7 @@
       "Moy.": "243"
     },
     {
-      "Rang Nat.": "540",
+      "Rang Nat.": "576",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0041837A",
@@ -7043,7 +7511,7 @@
       "Moy.": "239"
     },
     {
-      "Rang Nat.": "541",
+      "Rang Nat.": "577",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1055004U",
@@ -7056,20 +7524,7 @@
       "Moy.": "235"
     },
     {
-      "Rang Nat.": "542",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1002039R",
-      "Nom": "DE SANTI KILLIAN",
-      "Club": "0271083",
-      "Ville": "AUTUN",
-      "S1": "234",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "234"
-    },
-    {
-      "Rang Nat.": "543",
+      "Rang Nat.": "578",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1079424A",
@@ -7082,7 +7537,20 @@
       "Moy.": "234"
     },
     {
-      "Rang Nat.": "544",
+      "Rang Nat.": "579",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1002039R",
+      "Nom": "DE SANTI KILLIAN",
+      "Club": "0271083",
+      "Ville": "AUTUN",
+      "S1": "234",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "234"
+    },
+    {
+      "Rang Nat.": "580",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1072553T",
@@ -7095,7 +7563,7 @@
       "Moy.": "231"
     },
     {
-      "Rang Nat.": "545",
+      "Rang Nat.": "581",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1038034C",
@@ -7108,7 +7576,7 @@
       "Moy.": "230"
     },
     {
-      "Rang Nat.": "546",
+      "Rang Nat.": "582",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1058616S",
@@ -7121,7 +7589,7 @@
       "Moy.": "227"
     },
     {
-      "Rang Nat.": "547",
+      "Rang Nat.": "583",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1012006A",
@@ -7134,7 +7602,7 @@
       "Moy.": "226"
     },
     {
-      "Rang Nat.": "548",
+      "Rang Nat.": "584",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1057895Z",
@@ -7147,20 +7615,7 @@
       "Moy.": "224"
     },
     {
-      "Rang Nat.": "549",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0025394C",
-      "Nom": "NGUYEN MORGAN",
-      "Club": "1313081",
-      "Ville": "PELISSANNE",
-      "S1": "223",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "223"
-    },
-    {
-      "Rang Nat.": "550",
+      "Rang Nat.": "585",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1063944Q",
@@ -7173,7 +7628,7 @@
       "Moy.": "219"
     },
     {
-      "Rang Nat.": "551",
+      "Rang Nat.": "586",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1048597J",
@@ -7186,7 +7641,7 @@
       "Moy.": "215"
     },
     {
-      "Rang Nat.": "552",
+      "Rang Nat.": "587",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1028001F",
@@ -7199,7 +7654,7 @@
       "Moy.": "206"
     },
     {
-      "Rang Nat.": "553",
+      "Rang Nat.": "588",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0038268W",
@@ -7212,7 +7667,7 @@
       "Moy.": "205"
     },
     {
-      "Rang Nat.": "554",
+      "Rang Nat.": "589",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0048863M",
@@ -7225,7 +7680,7 @@
       "Moy.": "204"
     },
     {
-      "Rang Nat.": "555",
+      "Rang Nat.": "590",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1062567R",
@@ -7238,7 +7693,7 @@
       "Moy.": "203"
     },
     {
-      "Rang Nat.": "556",
+      "Rang Nat.": "591",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0018043M",
@@ -7251,7 +7706,7 @@
       "Moy.": "195"
     },
     {
-      "Rang Nat.": "557",
+      "Rang Nat.": "592",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1061138S",
@@ -7264,20 +7719,7 @@
       "Moy.": "195"
     },
     {
-      "Rang Nat.": "558",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "0052966X",
-      "Nom": "PORTEJOIE NOAH",
-      "Club": "1305020",
-      "Ville": "L'ARGENTIERE LA BESSEE",
-      "S1": "193",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "193"
-    },
-    {
-      "Rang Nat.": "559",
+      "Rang Nat.": "593",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0041410L",
@@ -7290,7 +7732,20 @@
       "Moy.": "193"
     },
     {
-      "Rang Nat.": "560",
+      "Rang Nat.": "594",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0052966X",
+      "Nom": "PORTEJOIE NOAH",
+      "Club": "1305020",
+      "Ville": "L'ARGENTIERE LA BESSEE",
+      "S1": "193",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "193"
+    },
+    {
+      "Rang Nat.": "595",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1069117P",
@@ -7303,7 +7758,20 @@
       "Moy.": "192"
     },
     {
-      "Rang Nat.": "561",
+      "Rang Nat.": "596",
+      "Rang Reg.": "40",
+      "Rang Dep.": "7",
+      "Licence": "1022385F",
+      "Nom": "SAINT-MARTIN AXEL",
+      "Club": "0657140",
+      "Ville": "SARREGUEMINES",
+      "S1": "259",
+      "S2": "121",
+      "S3": "0",
+      "Moy.": "190"
+    },
+    {
+      "Rang Nat.": "597",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1060141J",
@@ -7316,8 +7784,8 @@
       "Moy.": "190"
     },
     {
-      "Rang Nat.": "562",
-      "Rang Reg.": "39",
+      "Rang Nat.": "598",
+      "Rang Reg.": "41",
       "Rang Dep.": "",
       "Licence": "0010539F",
       "Nom": "MOREAU JULIEN",
@@ -7329,7 +7797,33 @@
       "Moy.": "186"
     },
     {
-      "Rang Nat.": "563",
+      "Rang Nat.": "599",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1061055N",
+      "Nom": "VICOT LORENZO",
+      "Club": "0173227",
+      "Ville": "ALBERTVILLE",
+      "S1": "179",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "179"
+    },
+    {
+      "Rang Nat.": "600",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "1058624A",
+      "Nom": "RIGAUD NOLAN",
+      "Club": "0329049",
+      "Ville": "QUIMPER",
+      "S1": "178",
+      "S2": "177",
+      "S3": "0",
+      "Moy.": "177"
+    },
+    {
+      "Rang Nat.": "601",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1073518W",
@@ -7342,20 +7836,33 @@
       "Moy.": "177"
     },
     {
-      "Rang Nat.": "564",
-      "Rang Reg.": "",
-      "Rang Dep.": "",
-      "Licence": "1058624A",
-      "Nom": "RIGAUD NOLAN",
-      "Club": "0329049",
-      "Ville": "QUIMPER",
-      "S1": "177",
-      "S2": "0",
+      "Rang Nat.": "602",
+      "Rang Reg.": "42",
+      "Rang Dep.": "8",
+      "Licence": "1033160Q",
+      "Nom": "DEBLONDE ENZO",
+      "Club": "0657122",
+      "Ville": "STIRING-WENDEL",
+      "S1": "198",
+      "S2": "143",
       "S3": "0",
-      "Moy.": "177"
+      "Moy.": "170"
     },
     {
-      "Rang Nat.": "565",
+      "Rang Nat.": "603",
+      "Rang Reg.": "",
+      "Rang Dep.": "",
+      "Licence": "0025086T",
+      "Nom": "BARBIER HUGO",
+      "Club": "0762269",
+      "Ville": "ETAPLES/MER",
+      "S1": "160",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "160"
+    },
+    {
+      "Rang Nat.": "604",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1010572W",
@@ -7368,7 +7875,7 @@
       "Moy.": "155"
     },
     {
-      "Rang Nat.": "566",
+      "Rang Nat.": "605",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1065924U",
@@ -7381,7 +7888,7 @@
       "Moy.": "150"
     },
     {
-      "Rang Nat.": "567",
+      "Rang Nat.": "606",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0048246S",
@@ -7394,7 +7901,7 @@
       "Moy.": "146"
     },
     {
-      "Rang Nat.": "568",
+      "Rang Nat.": "607",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1070903H",
@@ -7407,20 +7914,7 @@
       "Moy.": "144"
     },
     {
-      "Rang Nat.": "569",
-      "Rang Reg.": "40",
-      "Rang Dep.": "7",
-      "Licence": "1033160Q",
-      "Nom": "DEBLONDE ENZO",
-      "Club": "0657122",
-      "Ville": "STIRING-WENDEL",
-      "S1": "143",
-      "S2": "0",
-      "S3": "0",
-      "Moy.": "143"
-    },
-    {
-      "Rang Nat.": "570",
+      "Rang Nat.": "608",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1034577D",
@@ -7433,7 +7927,7 @@
       "Moy.": "129"
     },
     {
-      "Rang Nat.": "571",
+      "Rang Nat.": "609",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1060185B",
@@ -7446,7 +7940,7 @@
       "Moy.": "126"
     },
     {
-      "Rang Nat.": "572",
+      "Rang Nat.": "610",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "0045831S",
@@ -7459,7 +7953,7 @@
       "Moy.": "113"
     },
     {
-      "Rang Nat.": "573",
+      "Rang Nat.": "611",
       "Rang Reg.": "",
       "Rang Dep.": "",
       "Licence": "1074038W",
@@ -7470,6 +7964,19 @@
       "S2": "0",
       "S3": "0",
       "Moy.": "107"
+    },
+    {
+      "Rang Nat.": "",
+      "Rang Reg.": "12",
+      "Rang Dep.": "",
+      "Licence": "0033422D",
+      "Nom": "DA ROCHA MARTIN",
+      "Club": "0654086",
+      "Ville": "EINVILLE",
+      "S1": "475",
+      "S2": "0",
+      "S3": "0",
+      "Moy.": "475"
     }
   ]
 }
